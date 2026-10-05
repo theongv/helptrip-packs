@@ -1,7 +1,7 @@
 {
   "format": 1,
   "countryCode": "JP",
-  "version": "2026-10-01",
+  "version": "2026-10-05.2",
   "languageCode": "ja-JP",
   "currency": {
     "code": "JPY",
@@ -22,7 +22,9 @@
     "tippingRate": "0 %",
     "tippingInfo": "Pas d'usage, même au restaurant ou en taxi. Il peut gêner.",
     "taxFreeInfo": "Dès 5 000 ¥ HT par magasin · passeport obligatoire",
-    "customsInfo": "Franchise 430 € (avion) · 200 cigarettes · 1 L d'alcool fort + 4 L de vin"
+    "customsInfo": "Franchise 430 € (avion) · 200 cigarettes · 1 L d'alcool fort + 4 L de vin",
+    "embassyEmergencyPhone": "+81 80 9539 3970",
+    "embassyNote": "Astreinte en dehors des heures d'ouverture, uniquement pour une urgence grave (accident, décès, enlèvement, agression, arrestation)."
   },
   "phrases": [
     {

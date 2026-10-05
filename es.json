@@ -1,7 +1,7 @@
 {
   "format": 1,
   "countryCode": "ES",
-  "version": "2026-10-05",
+  "version": "2026-10-05.2",
   "languageCode": "es-ES",
   "currency": {
     "code": "EUR",
@@ -19,7 +19,7 @@
     "embassyName": "Ambassade de France",
     "embassyAddress": "Calle Salustiano Olózaga 9, 28001 Madrid",
     "embassyPhone": "+34 91 423 89 00",
-    "embassyNote": "Du lundi au vendredi, de 9 h à 19 h.",
+    "embassyNote": "Joignable par téléphone du lundi au vendredi, de 9 h à 19 h (8 h-18 h aux Canaries).",
     "tippingRate": "5-10 %",
     "tippingInfo": "Recommandé mais non obligatoire, le service est souvent inclus. Taxi : arrondir. Guide à la journée : 10-15 € par personne.",
     "isEuMember": true
