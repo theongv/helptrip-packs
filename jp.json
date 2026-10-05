@@ -1,0 +1,173 @@
+{
+  "format": 1,
+  "countryCode": "JP",
+  "version": "2026-10-01",
+  "languageCode": "ja-JP",
+  "currency": {
+    "code": "JPY",
+    "name": "Yen japonais",
+    "symbol": "¥",
+    "decimals": 0
+  },
+  "countryInfo": {
+    "nameWithPreposition": "au Japon",
+    "capital": "Tokyo",
+    "utcOffset": "UTC+9",
+    "policeNumber": "110",
+    "ambulanceNumber": "119",
+    "fireNumber": "119",
+    "embassyName": "Ambassade de France",
+    "embassyAddress": "4-11-44 Minami-Azabu, Minato-ku, Tokyo",
+    "embassyPhone": "+81 3 5798 6000",
+    "tippingRate": "0 %",
+    "tippingInfo": "Pas d'usage, même au restaurant ou en taxi. Il peut gêner.",
+    "taxFreeInfo": "Dès 5 000 ¥ HT par magasin · passeport obligatoire",
+    "customsInfo": "Franchise 430 € (avion) · 200 cigarettes · 1 L d'alcool fort + 4 L de vin"
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "助けて！",
+      "romanization": "Tasukete!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "救急車を呼んでください",
+      "romanization": "Kyūkyūsha o yonde kudasai"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "助けが必要です",
+      "romanization": "Tasuke ga hitsuyō desu"
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "病院はどこですか？",
+      "romanization": "Byōin wa doko desu ka?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "トイレはどこですか？",
+      "romanization": "Toire wa doko desu ka?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "メニューをください",
+      "romanization": "Menyū o kudasai"
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "ピーナッツアレルギーがあります",
+      "romanization": "Pīnattsu arerugī ga arimasu"
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "お会計をお願いします",
+      "romanization": "O-kaikei o onegaishimasu"
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "駅はどこですか？",
+      "romanization": "Eki wa doko desu ka?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet pour Kyoto, s'il vous plaît",
+      "translation": "京都までの切符をください",
+      "romanization": "Kyōto made no kippu o kudasai"
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il à Osaka ?",
+      "translation": "この電車は大阪に行きますか？",
+      "romanization": "Kono densha wa Ōsaka ni ikimasu ka?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "この住所までお願いします",
+      "romanization": "Kono jūsho made onegaishimasu"
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "予約しています",
+      "romanization": "Yoyaku shite imasu"
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "チェックアウトは何時ですか？",
+      "romanization": "Chekkuauto wa nanji desu ka?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "荷物を預かってもらえますか？",
+      "romanization": "Nimotsu o azukatte moraemasu ka?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "いくらですか？",
+      "romanization": "Ikura desu ka?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "カードで払えますか？",
+      "romanization": "Kādo de haraemasu ka?"
+    },
+    {
+      "category": "shopping",
+      "french": "Est-ce possible en détaxe ?",
+      "translation": "免税できますか？",
+      "romanization": "Menzei dekimasu ka?"
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "ここが痛いです",
+      "romanization": "Koko ga itai desu"
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "薬局はどこですか？",
+      "romanization": "Yakkyoku wa doko desu ka?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "私は糖尿病です",
+      "romanization": "Watashi wa tōnyōbyō desu"
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "財布を盗まれました",
+      "romanization": "Saifu o nusumaremashita"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "パスポートをなくしました",
+      "romanization": "Pasupōto o nakushimashita"
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "交番はどこですか？",
+      "romanization": "Kōban wa doko desu ka?"
+    }
+  ]
+}
