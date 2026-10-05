@@ -5,6 +5,8 @@ Usage :
     python3 publish.py --dry-run       # vérifie tout, n'écrit et ne pousse rien
     python3 publish.py                 # vérifie, committe, écrit le manifeste, pousse
     python3 publish.py -m "Pack JP : nouvelle astreinte"   # message du commit des packs
+    python3 publish.py --no-push       # committe en local sans pousser (relecture),
+                                       # puis : git push origin <branche>
 
 Ce que fait le script, dans l'ordre :
   1. Valide chaque pack (xx.json) : JSON lisible, champs obligatoires, code pays
@@ -102,6 +104,7 @@ def published_content(commit, path):
 def main():
     parser = argparse.ArgumentParser(description="Publie les packs HelpTrip.")
     parser.add_argument("--dry-run", action="store_true", help="vérifier sans rien écrire")
+    parser.add_argument("--no-push", action="store_true", help="committer sans pousser")
     parser.add_argument("-m", "--message", default="Mise à jour des packs")
     args = parser.parse_args()
 
@@ -167,6 +170,10 @@ def main():
     git("add", MANIFEST.name)
     git("commit", "-q", "-m", f"Manifeste : packs au commit {commit[:7]}")
     branch = git("rev-parse", "--abbrev-ref", "HEAD").stdout.strip()
+    if args.no_push:
+        print(f"Committé en local ({len(changed)} pack(s), commit {commit[:7]}), "
+              f"non poussé. Pour publier : git push origin {branch}")
+        return
     git("push", "-q", "origin", branch)
     print(f"Publié sur {branch} : {len(changed)} pack(s), commit {commit[:7]}.")
 
