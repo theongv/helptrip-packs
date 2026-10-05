@@ -1,0 +1,25 @@
+{
+  "format": 1,
+  "packs": {
+    "ES": {
+      "version": "2026-10-05.2",
+      "commit": "5177ea8fa04794f72be1067bb2c094402fe8f30b"
+    },
+    "IT": {
+      "version": "2026-10-05.3",
+      "commit": "5177ea8fa04794f72be1067bb2c094402fe8f30b"
+    },
+    "JP": {
+      "version": "2026-10-05.2",
+      "commit": "5177ea8fa04794f72be1067bb2c094402fe8f30b"
+    },
+    "PT": {
+      "version": "2026-10-05",
+      "commit": "5177ea8fa04794f72be1067bb2c094402fe8f30b"
+    },
+    "TH": {
+      "version": "2026-10-05.2",
+      "commit": "5177ea8fa04794f72be1067bb2c094402fe8f30b"
+    }
+  }
+}
