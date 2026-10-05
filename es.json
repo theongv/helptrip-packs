@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "countryCode": "ES",
+  "version": "2026-10-05",
+  "languageCode": "es-ES",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Espagne",
+    "capital": "Madrid",
+    "utcOffset": "UTC+1 (UTC+2 en été)",
+    "policeNumber": "112",
+    "ambulanceNumber": "112",
+    "fireNumber": "112",
+    "embassyName": "Ambassade de France",
+    "embassyAddress": "Calle Salustiano Olózaga 9, 28001 Madrid",
+    "embassyPhone": "+34 91 423 89 00",
+    "embassyNote": "Du lundi au vendredi, de 9 h à 19 h.",
+    "tippingRate": "5-10 %",
+    "tippingInfo": "Recommandé mais non obligatoire, le service est souvent inclus. Taxi : arrondir. Guide à la journée : 10-15 € par personne.",
+    "isEuMember": true
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "¡Socorro!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Llamen a una ambulancia, por favor"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Necesito ayuda"
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "¿Dónde está el hospital?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "¿Dónde está el baño?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "La carta, por favor"
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Tengo alergia a los cacahuetes"
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "La cuenta, por favor"
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "¿Dónde está la estación de tren?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet pour Séville, s'il vous plaît",
+      "translation": "Un billete para Sevilla, por favor"
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il à Barcelone ?",
+      "translation": "¿Este tren va a Barcelona?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "A esta dirección, por favor"
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Tengo una reserva"
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "¿A qué hora hay que dejar la habitación?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "¿Pueden guardarme el equipaje?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "¿Cuánto cuesta?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "¿Puedo pagar con tarjeta?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Solo estoy mirando, gracias"
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Me duele aquí"
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "¿Dónde está la farmacia?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Tengo diabetes"
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Me han robado la cartera"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "He perdido el pasaporte"
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "¿Dónde está la comisaría?"
+    }
+  ]
+}

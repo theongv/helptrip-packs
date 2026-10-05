@@ -1,0 +1,177 @@
+{
+  "format": 1,
+  "countryCode": "TH",
+  "version": "2026-10-05",
+  "languageCode": "th-TH",
+  "currency": {
+    "code": "THB",
+    "name": "Baht thaïlandais",
+    "symbol": "฿",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Thaïlande",
+    "capital": "Bangkok",
+    "utcOffset": "UTC+7",
+    "policeLabel": "Police touristique",
+    "policeNumber": "1155",
+    "ambulanceNumber": "1669",
+    "fireNumber": "199",
+    "embassyName": "Ambassade de France",
+    "embassyAddress": "35 Rue de Brest (Charoen Krung Soi 36), Bang Rak, Bangkok 10500",
+    "embassyPhone": "+66 2 844 70 05",
+    "embassyEmergencyPhone": "+66 81 994 4901",
+    "embassyNote": "Astreinte pour une urgence réelle (accident, décès, agression), hors horaires : de 17 h à 8 h, dès 15 h 30 le vendredi.",
+    "tippingRate": "5-10 %",
+    "tippingInfo": "Non obligatoire, apprécié. Restaurant : si le service n'est pas déjà ajouté (souvent 10 %). Taxi : arrondir à la dizaine de bahts. Tuk-tuk : rien, le prix est négocié. Massage d'1 h : 50-100 ฿.",
+    "isEuMember": false,
+    "taxFreeInfo": "Dès 20 000 ฿ d'achat par magasin (seuil en vigueur depuis le 1er décembre 2023)",
+    "customsInfo": "Franchise 430 € (avion) · 200 cigarettes · 1 L d'alcool fort + 4 L de vin"
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "ช่วยด้วย!",
+      "romanization": "Chuai duai!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "ช่วยเรียกรถพยาบาลให้หน่อย",
+      "romanization": "Chuai riak rot phayaban hai noi"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "ต้องการความช่วยเหลือ",
+      "romanization": "Tongkan khwam chuai luea"
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "โรงพยาบาลอยู่ที่ไหน",
+      "romanization": "Rong phayaban yu thi nai?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "ห้องน้ำอยู่ที่ไหน",
+      "romanization": "Hong nam yu thi nai?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "ขอเมนูหน่อย",
+      "romanization": "Kho menu noi"
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "แพ้ถั่วลิสง",
+      "romanization": "Phae thua lisong"
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "เช็กบิลด้วย",
+      "romanization": "Chek bin duai"
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "สถานีรถไฟอยู่ที่ไหน",
+      "romanization": "Sathani rot fai yu thi nai?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet pour Chiang Mai, s'il vous plaît",
+      "translation": "ขอตั๋วไปเชียงใหม่หนึ่งใบ",
+      "romanization": "Kho tua pai Chiang Mai nueng bai"
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il à Ayutthaya ?",
+      "translation": "รถไฟขบวนนี้ไปอยุธยาไหม",
+      "romanization": "Rot fai khabuan ni pai Ayutthaya mai?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "ไปที่อยู่นี้หน่อย",
+      "romanization": "Pai thi yu ni noi"
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "จองห้องไว้แล้ว",
+      "romanization": "Chong hong wai laeo"
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "เช็กเอาต์กี่โมง",
+      "romanization": "Chek ao ki mong?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "ฝากกระเป๋าไว้ได้ไหม",
+      "romanization": "Fak krapao wai dai mai?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "ราคาเท่าไร",
+      "romanization": "Rakha thao rai?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "จ่ายด้วยบัตรได้ไหม",
+      "romanization": "Chai duai bat dai mai?"
+    },
+    {
+      "category": "shopping",
+      "french": "Est-ce possible en détaxe ?",
+      "translation": "ขอคืนภาษีได้ไหม",
+      "romanization": "Kho khuen phasi dai mai?"
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "เจ็บตรงนี้",
+      "romanization": "Chep trong ni"
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "ร้านขายยาอยู่ที่ไหน",
+      "romanization": "Ran khai ya yu thi nai?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "เป็นเบาหวาน",
+      "romanization": "Pen bao wan"
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "กระเป๋าสตางค์ถูกขโมย",
+      "romanization": "Krapao satang thuk khamoi"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "ทำพาสปอร์ตหาย",
+      "romanization": "Tham phatsapot hai"
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "สถานีตำรวจอยู่ที่ไหน",
+      "romanization": "Sathani tamruat yu thi nai?"
+    }
+  ]
+}

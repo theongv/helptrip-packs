@@ -1,0 +1,147 @@
+{
+  "format": 1,
+  "countryCode": "PT",
+  "version": "2026-10-05",
+  "languageCode": "pt-PT",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "au Portugal",
+    "capital": "Lisbonne",
+    "utcOffset": "UTC+0 (UTC+1 en été)",
+    "policeNumber": "112",
+    "ambulanceNumber": "112",
+    "fireNumber": "112",
+    "embassyName": "Ambassade de France",
+    "embassyAddress": "Rua Santos-o-Velho 5, 1249-079 Lisbonne",
+    "embassyPhone": "+351 21 393 9100",
+    "tippingInfo": "Optionnel et informel. Restaurant : arrondir la note est bien vu. Taxi : arrondir à l'euro. Guide : environ 5 € par jour et par personne.",
+    "isEuMember": true
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Socorro!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Chamem uma ambulância, por favor"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Preciso de ajuda"
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Onde fica o hospital?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Onde é a casa de banho?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "A ementa, por favor"
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Tenho alergia a amendoins"
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "A conta, por favor"
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Onde fica a estação de comboios?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet pour Porto, s'il vous plaît",
+      "translation": "Um bilhete para o Porto, por favor"
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il à Coimbra ?",
+      "translation": "Este comboio vai para Coimbra?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "Para esta morada, por favor"
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Tenho uma reserva"
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "A que horas tenho de deixar o quarto?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Pode guardar-me a bagagem?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Quanto custa?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Posso pagar com cartão?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Estou só a ver, obrigado"
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Dói-me aqui"
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Onde fica a farmácia?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Tenho diabetes"
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Roubaram-me a carteira"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Perdi o meu passaporte"
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Onde fica a esquadra da polícia?"
+    }
+  ]
+}

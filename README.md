@@ -3,6 +3,10 @@
 Contenu hors ligne de l'application HelpTrip : un fichier JSON par pays
 (devise, numéros d'urgence, ambassade, pourboire, douane, phrases essentielles).
 
+Pays disponibles : Japon (`jp`), Italie (`it`), Thaïlande (`th`), Espagne (`es`), Portugal (`pt`).
+
+Les phrases ont été écrites puis relues par l'IA, et n'ont pas encore été relues par des locuteurs natifs.
+
 Fichiers servis par jsDelivr, par exemple :
 https://cdn.jsdelivr.net/gh/theongv/helptrip-packs@main/jp.json
 

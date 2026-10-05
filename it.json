@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "countryCode": "IT",
+  "version": "2026-10-05",
+  "languageCode": "it-IT",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Italie",
+    "capital": "Rome",
+    "utcOffset": "UTC+1 (UTC+2 en été)",
+    "policeNumber": "113",
+    "extraEmergencyLabel": "Carabiniers",
+    "extraEmergencyNumber": "112",
+    "ambulanceNumber": "118",
+    "fireNumber": "115",
+    "embassyName": "Ambassade de France",
+    "embassyAddress": "Piazza Farnese 67, 00186 Rome",
+    "embassyPhone": "+39 06 68 60 11",
+    "tippingRate": "5-15 %",
+    "tippingInfo": "Non obligatoire, le service est souvent inclus (« servizio »). Apprécié si vous êtes satisfait. Taxi : arrondir à l'euro supérieur.",
+    "isEuMember": true
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Aiuto!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Chiamate un'ambulanza, per favore"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Ho bisogno di aiuto"
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Dov'è l'ospedale?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Dov'è il bagno?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "Il menù, per favore"
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Ho un'allergia alle arachidi"
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "Il conto, per favore"
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Dov'è la stazione?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet pour Florence, s'il vous plaît",
+      "translation": "Un biglietto per Firenze, per favore"
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il à Milan ?",
+      "translation": "Questo treno va a Milano?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "A questo indirizzo, per favore"
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Ho una prenotazione"
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "A che ora bisogna lasciare la camera?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Potete custodire i miei bagagli?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Quanto costa?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Posso pagare con la carta?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Sto solo guardando, grazie"
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Mi fa male qui"
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Dov'è la farmacia?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Ho il diabete"
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Mi hanno rubato il portafoglio"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Ho perso il passaporto"
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Dov'è il commissariato?"
+    }
+  ]
+}
