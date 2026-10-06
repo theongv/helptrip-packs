@@ -27,17 +27,17 @@ Choisir l'une des deux méthodes. Aucune ne modifie `main`.
 
 Récupérer l'ancien pack depuis l'historique et le servir depuis le Mac :
 
-    mkdir -p /tmp/packs-test/main
-    git show <ancien_commit>:es.json > /tmp/packs-test/main/es.json
-    # manifeste de test qui annonce cette ancienne version
+    mkdir -p /tmp/packs-test/aaaaaaa /tmp/packs-test/main
+    git show <ancien_commit>:es.json > /tmp/packs-test/aaaaaaa/es.json
+    cp *.json /tmp/packs-test/main/        # repli @main pour les autres pays
+    # manifeste de test qui annonce l'ancienne version, au faux commit "aaaaaaa"
     cat > /tmp/packs-test/versions.json <<'JSON'
-    {"format": 1, "packs": {"ES": {"version": "<ancienne_version>", "commit": "main"}}}
+    {"format": 1, "packs": {"ES": {"version": "<ancienne_version>", "commit": "aaaaaaa"}}}
     JSON
     python3 -m http.server 8787 --directory /tmp/packs-test
 
-Attention : le champ `commit` doit être un hash de 7 à 40 caractères hexadécimaux, sinon
-l'app ignore l'entrée. Dans un dossier local, nommer le sous-dossier comme un faux hash
-(ex. `aaaaaaa/es.json` et `"commit": "aaaaaaa"`).
+Le champ `commit` doit être un hash de 7 à 40 caractères hexadécimaux, sinon l'app ignore
+l'entrée : d'où le nom de dossier `aaaaaaa`, qui en a la forme.
 
 Puis lancer l'app sur ce serveur (10.0.2.2 = le Mac vu depuis l'émulateur) :
 
