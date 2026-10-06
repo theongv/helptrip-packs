@@ -14,6 +14,11 @@ Format : voir `lib/models/pack_content.dart` dans le code de l'application.
 Les informations pratiques sont données à titre indicatif : vérifiez-les
 auprès des sources officielles (France Diplomatie, douane.gouv.fr) avant de partir.
 
+## Tester sans toucher au manifeste public
+
+Ne jamais modifier `versions.json` sur `main` pour un test : il est lu par tous les
+utilisateurs. Voir `CONTRIBUTING.md` (manifeste local ou branche de test séparée).
+
 ## Publier
 
 Ne jamais pousser les packs à la main : utiliser le script, qui vérifie les packs,
