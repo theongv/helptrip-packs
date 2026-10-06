@@ -2,8 +2,8 @@
   "format": 1,
   "packs": {
     "ES": {
-      "version": "2026-10-05.2",
-      "commit": "5177ea8fa04794f72be1067bb2c094402fe8f30b"
+      "version": "2026-10-05",
+      "commit": "e775f27914164c7747850da554e1fb64ad6f05c7"
     },
     "IT": {
       "version": "2026-10-05.3",
