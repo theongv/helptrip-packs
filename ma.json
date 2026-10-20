@@ -1,0 +1,159 @@
+{
+  "format": 1,
+  "countryCode": "MA",
+  "version": "2026-10-12",
+  "languageCode": "ar",
+  "currency": {
+    "code": "MAD",
+    "name": "Dirham marocain",
+    "symbol": "DH",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "au Maroc",
+    "capital": "Rabat",
+    "utcOffset": "UTC+0 (permanent depuis le 20/09/2026)",
+    "policeNumber": "19",
+    "fireNumber": "15",
+    "ambulanceNumber": "15",
+    "extraEmergencyLabel": "SAMU Rabat",
+    "extraEmergencyNumber": "05 37 73 73 73",
+    "embassyName": "Ambassade de France",
+    "embassyAddress": "1 rue Ibn Hajar - Agdal 10090 Rabat Maroc",
+    "embassyPhone": "+212 5 37 68 98 78",
+    "tippingInfo": "Il est d'usage de laisser 5 à 10 % au restaurant, jusqu'à 15 % dans le haut de gamme. Certaines additions incluent déjà un service d'environ 10 %.",
+    "tippingRate": "5-10 %",
+    "isEuMember": false,
+    "customsInfo": "Au retour en France : franchise de 430 € par avion/bateau, 300 € par voie terrestre (voyageurs de 15 ans et plus). Alcool : 4L de vin + 16L de bière + 1L d'alcool fort (ou 2L à 22° ou moins). Tabac : 200 cigarettes ou équivalent proportionnel.",
+    "embassyNote": "SAMU par ville : Rabat 05 37 73 73 73 · Marrakech 05 24 42 24 46 · Agadir +212 5 28 82 88 88",
+    "taxFreeInfo": "Détaxe possible pour un achat total d'au moins 2 000 MAD TTC, le même jour, chez un commerçant agréé (hors alimentaire, tabac, médicaments, pierres précieuses non montées, véhicules). Le bordereau de vente à l'exportation doit être visé par la douane à l'aéroport avant le départ ; remboursement ensuite via un opérateur agréé (Global Blue Maroc, Morocco Tourist Refund SA)."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "النجدة!",
+      "romanization": "An-najda !"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît.",
+      "translation": "اتصل بالإسعاف من فضلك.",
+      "romanization": "Ittasil bil-is'āf min faḍlik."
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide.",
+      "translation": "أحتاج إلى مساعدة.",
+      "romanization": "Aḥtāju ilā musā'ada."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît.",
+      "translation": "الحساب من فضلك.",
+      "romanization": "Al-ḥisāb min faḍlik."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis végétarien(ne).",
+      "translation": "أنا نباتي.",
+      "romanization": "Anā nabātī."
+    },
+    {
+      "category": "restaurant",
+      "french": "De l'eau, s'il vous plaît.",
+      "translation": "ماء من فضلك.",
+      "romanization": "Mā' min faḍlik."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "أين المحطة؟",
+      "romanization": "Ayna al-maḥaṭṭa ?"
+    },
+    {
+      "category": "transport",
+      "french": "Combien coûte le billet ?",
+      "translation": "كم تكلفة التذكرة؟",
+      "romanization": "Kam taklifat at-tadhkara ?"
+    },
+    {
+      "category": "transport",
+      "french": "Je voudrais aller à...",
+      "translation": "أريد الذهاب إلى...",
+      "romanization": "Urīdu adh-dhahāba ilā..."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation.",
+      "translation": "لدي حجز.",
+      "romanization": "Ladayya ḥajz."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le petit-déjeuner ?",
+      "translation": "في أي وقت الفطور؟",
+      "romanization": "Fī ayyi waqt al-fuṭūr ?"
+    },
+    {
+      "category": "hotel",
+      "french": "Le Wi-Fi fonctionne-t-il ?",
+      "translation": "هل الواي فاي يعمل؟",
+      "romanization": "Hal al-wāy fāy ya'mal ?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "كم السعر؟",
+      "romanization": "Kam as-si'r ?"
+    },
+    {
+      "category": "shopping",
+      "french": "C'est trop cher.",
+      "translation": "هذا غالٍ جدا.",
+      "romanization": "Hādhā ghālin jiddan."
+    },
+    {
+      "category": "shopping",
+      "french": "Je voudrais essayer ceci.",
+      "translation": "أريد تجربة هذا.",
+      "romanization": "Urīdu tajribat hādhā."
+    },
+    {
+      "category": "health",
+      "french": "J'ai besoin d'un médecin.",
+      "translation": "أحتاج إلى طبيب.",
+      "romanization": "Aḥtāju ilā ṭabīb."
+    },
+    {
+      "category": "health",
+      "french": "Où est l'hôpital le plus proche ?",
+      "translation": "أين أقرب مستشفى؟",
+      "romanization": "Ayna aqrab mustashfā ?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis allergique à...",
+      "translation": "أنا حساس من...",
+      "romanization": "Anā ḥassās min..."
+    },
+    {
+      "category": "police",
+      "french": "Où est le commissariat de police ?",
+      "translation": "أين مركز الشرطة؟",
+      "romanization": "Ayna markaz ash-shurṭa ?"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport.",
+      "translation": "لقد فقدت جوازي.",
+      "romanization": "Laqad faqadtu jawāzī."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon sac.",
+      "translation": "سُرقت حقيبتي.",
+      "romanization": "Suriqat ḥaqībatī."
+    }
+  ]
+}
