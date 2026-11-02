@@ -1,0 +1,133 @@
+{
+  "format": 1,
+  "countryCode": "IE",
+  "version": "2026-11-02",
+  "languageCode": "en-IE",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Irlande",
+    "policeNumber": "999",
+    "ambulanceNumber": "999",
+    "fireNumber": "999",
+    "embassyName": "Ambassade de France",
+    "embassyAddress": "66 Fitzwilliam Lane, Dublin 2, D02 HP38",
+    "embassyPhone": "+353 1 699 0984",
+    "isEuMember": true,
+    "capital": "Dublin",
+    "utcOffset": "UTC+0 (UTC+1 en été)",
+    "tippingInfo": "10 % pour un service correct, jusqu'à 15 % dans les établissements haut de gamme. Taxi : 10 % ou arrondir au montant supérieur. Pub : 1 € par tournée si l'on est servi à table. Hôtel : 1 € par bagage. Inutile si le service est médiocre. Certains établissements touristiques ajoutent déjà 10 à 12 % à l'addition.",
+    "tippingRate": "10 %"
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Help!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît.",
+      "translation": "Please call an ambulance."
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide.",
+      "translation": "I need help."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît.",
+      "translation": "The bill, please."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis végétarien(ne).",
+      "translation": "I am vegetarian."
+    },
+    {
+      "category": "restaurant",
+      "french": "De l'eau, s'il vous plaît.",
+      "translation": "Water, please."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Where is the train station?"
+    },
+    {
+      "category": "transport",
+      "french": "Combien coûte le billet ?",
+      "translation": "How much is the ticket?"
+    },
+    {
+      "category": "transport",
+      "french": "Je voudrais aller à...",
+      "translation": "I would like to go to..."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation.",
+      "translation": "I have a reservation."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le petit-déjeuner ?",
+      "translation": "What time is breakfast?"
+    },
+    {
+      "category": "hotel",
+      "french": "Le Wi-Fi fonctionne-t-il ?",
+      "translation": "Does the Wi-Fi work?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "How much does this cost?"
+    },
+    {
+      "category": "shopping",
+      "french": "C'est trop cher.",
+      "translation": "That's too expensive."
+    },
+    {
+      "category": "shopping",
+      "french": "Je voudrais essayer ceci.",
+      "translation": "I would like to try this on."
+    },
+    {
+      "category": "health",
+      "french": "J'ai besoin d'un médecin.",
+      "translation": "I need a doctor."
+    },
+    {
+      "category": "health",
+      "french": "Où est l'hôpital le plus proche ?",
+      "translation": "Where is the nearest hospital?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis allergique à...",
+      "translation": "I am allergic to..."
+    },
+    {
+      "category": "police",
+      "french": "Où est le commissariat de police ?",
+      "translation": "Where is the police station?"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport.",
+      "translation": "I lost my passport."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon sac.",
+      "translation": "My bag was stolen."
+    }
+  ]
+}
