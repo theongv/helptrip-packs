@@ -1,0 +1,135 @@
+{
+  "format": 1,
+  "countryCode": "US",
+  "version": "2026-10-20",
+  "languageCode": "en-US",
+  "currency": {
+    "code": "USD",
+    "name": "Dollar américain",
+    "symbol": "$",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "aux États-Unis",
+    "capital": "Washington D.C.",
+    "utcOffset": "UTC-5 à Washington D.C. (UTC-4 en été) ; selon l'État, de UTC-10 (Hawaï) à UTC-5",
+    "policeNumber": "911",
+    "fireNumber": "911",
+    "ambulanceNumber": "911",
+    "embassyName": "Ambassade de France",
+    "embassyAddress": "4101 Reservoir Road NW, Washington D.C. 20007, États-Unis",
+    "embassyPhone": "+1 202 944 6000",
+    "tippingInfo": "Le pourboire est quasi obligatoire : 15 à 20 % au restaurant (le service n'est presque jamais inclus), généralement calculé avant taxe.",
+    "tippingRate": "15-20 %",
+    "isEuMember": false,
+    "taxFreeInfo": "Pas de détaxe fédérale pour touristes. Les taxes de vente (« sales tax ») sont fixées État par État et quasi jamais remboursables ; exceptions limitées et privées (ex. programme de La Nouvelle-Orléans en Louisiane, opérateurs privés au Texas), sous conditions strictes.",
+    "customsInfo": "Au retour en France : franchise de 430 € par avion/bateau, 300 € par voie terrestre (voyageurs de 15 ans et plus). Alcool : 4L de vin + 16L de bière + 1L d'alcool fort (ou 2L à 22° ou moins). Tabac : 200 cigarettes ou équivalent proportionnel."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Help!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît.",
+      "translation": "Please call an ambulance."
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide.",
+      "translation": "I need help."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît.",
+      "translation": "The check, please."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis végétarien(ne).",
+      "translation": "I am vegetarian."
+    },
+    {
+      "category": "restaurant",
+      "french": "De l'eau, s'il vous plaît.",
+      "translation": "Water, please."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Where is the train station?"
+    },
+    {
+      "category": "transport",
+      "french": "Combien coûte le billet ?",
+      "translation": "How much is the ticket?"
+    },
+    {
+      "category": "transport",
+      "french": "Je voudrais aller à...",
+      "translation": "I would like to go to..."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation.",
+      "translation": "I have a reservation."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le petit-déjeuner ?",
+      "translation": "What time is breakfast?"
+    },
+    {
+      "category": "hotel",
+      "french": "Le Wi-Fi fonctionne-t-il ?",
+      "translation": "Does the Wi-Fi work?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "How much does this cost?"
+    },
+    {
+      "category": "shopping",
+      "french": "C'est trop cher.",
+      "translation": "That's too expensive."
+    },
+    {
+      "category": "shopping",
+      "french": "Je voudrais essayer ceci.",
+      "translation": "I would like to try this on."
+    },
+    {
+      "category": "health",
+      "french": "J'ai besoin d'un médecin.",
+      "translation": "I need a doctor."
+    },
+    {
+      "category": "health",
+      "french": "Où est l'hôpital le plus proche ?",
+      "translation": "Where is the nearest hospital?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis allergique à...",
+      "translation": "I am allergic to..."
+    },
+    {
+      "category": "police",
+      "french": "Où est le commissariat de police ?",
+      "translation": "Where is the police station?"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport.",
+      "translation": "I lost my passport."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon sac.",
+      "translation": "My bag was stolen."
+    }
+  ]
+}

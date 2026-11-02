@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "countryCode": "GB",
+  "version": "2026-10-20",
+  "languageCode": "en-GB",
+  "currency": {
+    "code": "GBP",
+    "name": "Livre sterling",
+    "symbol": "£",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "au Royaume-Uni",
+    "capital": "Londres",
+    "utcOffset": "UTC+0 (UTC+1 en été, British Summer Time)",
+    "policeNumber": "999",
+    "fireNumber": "999",
+    "ambulanceNumber": "999",
+    "extraEmergencyLabel": "NHS 111 (urgence médicale non vitale)",
+    "extraEmergencyNumber": "111",
+    "embassyName": "Ambassade de France",
+    "embassyAddress": "58 Knightsbridge, Londres, SW1X 7JT, Royaume-Uni",
+    "embassyPhone": "+44 20 7073 1000",
+    "tippingInfo": "Pourboire non obligatoire ; environ 10 % au restaurant si le service n'est pas déjà inclus (souvent indiqué sur l'addition).",
+    "tippingRate": "10 %",
+    "isEuMember": false,
+    "taxFreeInfo": "Détaxe supprimée pour les touristes depuis le 1er janvier 2021 (sortie de l'UE). Exceptions limitées : envoi direct à l'étranger par certains commerces (bijouterie, horlogerie de luxe) ou achats hors taxes à l'aéroport avant un vol international.",
+    "customsInfo": "Au retour en France : franchise de 430 € par avion/bateau, 300 € par voie terrestre (voyageurs de 15 ans et plus). Alcool : 4L de vin + 16L de bière + 1L d'alcool fort (ou 2L à 22° ou moins). Tabac : 200 cigarettes ou équivalent proportionnel.",
+    "embassyNote": "Police, urgence non vitale : 101."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Help!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît.",
+      "translation": "Please call an ambulance."
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide.",
+      "translation": "I need help."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît.",
+      "translation": "The bill, please."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis végétarien(ne).",
+      "translation": "I am vegetarian."
+    },
+    {
+      "category": "restaurant",
+      "french": "De l'eau, s'il vous plaît.",
+      "translation": "Water, please."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Where is the train station?"
+    },
+    {
+      "category": "transport",
+      "french": "Combien coûte le billet ?",
+      "translation": "How much is the ticket?"
+    },
+    {
+      "category": "transport",
+      "french": "Je voudrais aller à...",
+      "translation": "I would like to go to..."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation.",
+      "translation": "I have a reservation."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le petit-déjeuner ?",
+      "translation": "What time is breakfast?"
+    },
+    {
+      "category": "hotel",
+      "french": "Le Wi-Fi fonctionne-t-il ?",
+      "translation": "Does the Wi-Fi work?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "How much does this cost?"
+    },
+    {
+      "category": "shopping",
+      "french": "C'est trop cher.",
+      "translation": "That's too expensive."
+    },
+    {
+      "category": "shopping",
+      "french": "Je voudrais essayer ceci.",
+      "translation": "I would like to try this on."
+    },
+    {
+      "category": "health",
+      "french": "J'ai besoin d'un médecin.",
+      "translation": "I need a doctor."
+    },
+    {
+      "category": "health",
+      "french": "Où est l'hôpital le plus proche ?",
+      "translation": "Where is the nearest hospital?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis allergique à...",
+      "translation": "I am allergic to..."
+    },
+    {
+      "category": "police",
+      "french": "Où est le commissariat de police ?",
+      "translation": "Where is the police station?"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport.",
+      "translation": "I lost my passport."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon sac.",
+      "translation": "My bag was stolen."
+    }
+  ]
+}

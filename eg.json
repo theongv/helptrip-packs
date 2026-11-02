@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "countryCode": "EG",
+  "version": "2026-10-20",
+  "languageCode": "ar",
+  "currency": {
+    "code": "EGP",
+    "name": "Livre égyptienne",
+    "symbol": "ج.م",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Égypte",
+    "capital": "Le Caire",
+    "utcOffset": "UTC+2 en hiver, UTC+3 en été (heure d'été rétablie depuis 2023, du dernier vendredi d'avril au dernier jeudi d'octobre)",
+    "policeNumber": "122",
+    "fireNumber": "180",
+    "ambulanceNumber": "123",
+    "extraEmergencyLabel": "Police touristique",
+    "extraEmergencyNumber": "126",
+    "embassyName": "Ambassade de France",
+    "embassyAddress": "29 avenue Charles de Gaulle, Guizeh, Le Caire, Égypte",
+    "embassyPhone": "+20 2 35 67 32 00",
+    "tippingInfo": "Le pourboire (« baksheesh ») est très ancré : 5 à 10 % en plus des frais de service au restaurant (souvent déjà 10-12 % inclus, à vérifier sur l'addition) ; arrondir ou laisser 20-50 EGP dans les petits restaurants.",
+    "tippingRate": "5-10 %",
+    "isEuMember": false,
+    "taxFreeInfo": "Un dispositif officiel de détaxe existe (achats d'au moins 1 500 EGP TTC, via factures électroniques et l'application Tax Refund de l'autorité fiscale égyptienne), mais son fonctionnement effectif en boutique n'a pas pu être confirmé : renseigne-toi auprès du commerçant avant d'acheter.",
+    "customsInfo": "Au retour en France : franchise de 430 € par avion/bateau, 300 € par voie terrestre (voyageurs de 15 ans et plus). Alcool : 4L de vin + 16L de bière + 1L d'alcool fort (ou 2L à 22° ou moins). Tabac : 200 cigarettes ou équivalent proportionnel."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "النجدة!",
+      "romanization": "An-najda !"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît.",
+      "translation": "اتصل بالإسعاف من فضلك.",
+      "romanization": "Ittasil bil-is'āf min faḍlik."
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide.",
+      "translation": "أحتاج إلى مساعدة.",
+      "romanization": "Aḥtāju ilā musā'ada."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît.",
+      "translation": "الحساب من فضلك.",
+      "romanization": "Al-ḥisāb min faḍlik."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis végétarien(ne).",
+      "translation": "أنا نباتي.",
+      "romanization": "Anā nabātī."
+    },
+    {
+      "category": "restaurant",
+      "french": "De l'eau, s'il vous plaît.",
+      "translation": "ماء من فضلك.",
+      "romanization": "Mā' min faḍlik."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "أين المحطة؟",
+      "romanization": "Ayna al-maḥaṭṭa ?"
+    },
+    {
+      "category": "transport",
+      "french": "Combien coûte le billet ?",
+      "translation": "كم تكلفة التذكرة؟",
+      "romanization": "Kam taklifat at-tadhkara ?"
+    },
+    {
+      "category": "transport",
+      "french": "Je voudrais aller à...",
+      "translation": "أريد الذهاب إلى...",
+      "romanization": "Urīdu adh-dhahāba ilā..."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation.",
+      "translation": "لدي حجز.",
+      "romanization": "Ladayya ḥajz."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le petit-déjeuner ?",
+      "translation": "في أي وقت الفطور؟",
+      "romanization": "Fī ayyi waqt al-fuṭūr ?"
+    },
+    {
+      "category": "hotel",
+      "french": "Le Wi-Fi fonctionne-t-il ?",
+      "translation": "هل الواي فاي يعمل؟",
+      "romanization": "Hal al-wāy fāy ya'mal ?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "كم السعر؟",
+      "romanization": "Kam as-si'r ?"
+    },
+    {
+      "category": "shopping",
+      "french": "C'est trop cher.",
+      "translation": "هذا غالٍ جدا.",
+      "romanization": "Hādhā ghālin jiddan."
+    },
+    {
+      "category": "shopping",
+      "french": "Je voudrais essayer ceci.",
+      "translation": "أريد تجربة هذا.",
+      "romanization": "Urīdu tajribat hādhā."
+    },
+    {
+      "category": "health",
+      "french": "J'ai besoin d'un médecin.",
+      "translation": "أحتاج إلى طبيب.",
+      "romanization": "Aḥtāju ilā ṭabīb."
+    },
+    {
+      "category": "health",
+      "french": "Où est l'hôpital le plus proche ?",
+      "translation": "أين أقرب مستشفى؟",
+      "romanization": "Ayna aqrab mustashfā ?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis allergique à...",
+      "translation": "أنا حساس من...",
+      "romanization": "Anā ḥassās min..."
+    },
+    {
+      "category": "police",
+      "french": "Où est le commissariat de police ?",
+      "translation": "أين مركز الشرطة؟",
+      "romanization": "Ayna markaz ash-shurṭa ?"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport.",
+      "translation": "لقد فقدت جوازي.",
+      "romanization": "Laqad faqadtu jawāzī."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon sac.",
+      "translation": "سُرقت حقيبتي.",
+      "romanization": "Suriqat ḥaqībatī."
+    }
+  ]
+}
