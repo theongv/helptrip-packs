@@ -1,6 +1,10 @@
 {
   "format": 1,
   "packs": {
+    "AE": {
+      "version": "2026-11-02",
+      "commit": "226884089fe9b74666b04c0d0466992357d1ad08"
+    },
     "CA": {
       "version": "2026-11-02",
       "commit": "9c4f60ec45b45a37b3a7ce59e71cc921a7c91789"
