@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "countryCode": "AE",
+  "version": "2026-11-02",
+  "languageCode": "ar",
+  "currency": {
+    "code": "AED",
+    "name": "Dirham des Émirats",
+    "symbol": "AED",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "aux Émirats arabes unis",
+    "policeNumber": "999",
+    "ambulanceNumber": "998",
+    "fireNumber": "997",
+    "embassyName": "Ambassade de France",
+    "embassyAddress": "Etihad Towers, Office Tower (Tower 3), 22e étage, PO Box 4014, Abou Dabi",
+    "embassyPhone": "+971 60 052 16 68",
+    "isEuMember": false,
+    "capital": "Abou Dabi",
+    "utcOffset": "UTC+4",
+    "tippingInfo": "Pourboire non attendu mais courant. Dans les restaurants haut de gamme, des frais de service (environ 10 %) et une taxe touristique de 6 % peuvent déjà être ajoutés à l'addition ; ils figurent souvent dans les prix du menu. Si ces frais ne sont pas inclus, compte 10 à 15 % du total. Hôtels : à ta discrétion.",
+    "tippingRate": "10-15 %",
+    "customsInfo": "Retour en France depuis un pays hors UE, pour les voyageurs de 15 ans et plus : franchise de 430 € par avion ou bateau, 300 € par un autre moyen. Tabac : 200 cigarettes ou 100 cigarillos ou 50 cigares ou 250 g de tabac à fumer (non cumulables). Alcool : 4 L de vin tranquille, 16 L de bière, et 1 L de boissons de plus de 22° ou 2 L de 22° ou moins.",
+    "taxFreeInfo": "Touristes de 18 ans et plus, non résidents : remboursement de 87 % de la TVA payée, moins 4,80 AED par étiquette hors taxe. Achat minimum : 250 AED. Fais valider tes achats à la sortie, avant l'enregistrement des bagages. Les marchandises doivent être exportées dans les 90 jours suivant l'achat. Vérifie ces conditions avant d'acheter."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "النجدة!",
+      "romanization": "An-najda !"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît.",
+      "translation": "اتصل بالإسعاف من فضلك.",
+      "romanization": "Ittasil bil-is'āf min faḍlik."
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide.",
+      "translation": "أحتاج إلى مساعدة.",
+      "romanization": "Aḥtāju ilā musā'ada."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît.",
+      "translation": "الحساب من فضلك.",
+      "romanization": "Al-ḥisāb min faḍlik."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis végétarien(ne).",
+      "translation": "أنا نباتي.",
+      "romanization": "Anā nabātī."
+    },
+    {
+      "category": "restaurant",
+      "french": "De l'eau, s'il vous plaît.",
+      "translation": "ماء من فضلك.",
+      "romanization": "Mā' min faḍlik."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "أين المحطة؟",
+      "romanization": "Ayna al-maḥaṭṭa ?"
+    },
+    {
+      "category": "transport",
+      "french": "Combien coûte le billet ?",
+      "translation": "كم تكلفة التذكرة؟",
+      "romanization": "Kam taklifat at-tadhkara ?"
+    },
+    {
+      "category": "transport",
+      "french": "Je voudrais aller à...",
+      "translation": "أريد الذهاب إلى...",
+      "romanization": "Urīdu adh-dhahāba ilā..."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation.",
+      "translation": "لدي حجز.",
+      "romanization": "Ladayya ḥajz."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le petit-déjeuner ?",
+      "translation": "في أي وقت الفطور؟",
+      "romanization": "Fī ayyi waqt al-fuṭūr ?"
+    },
+    {
+      "category": "hotel",
+      "french": "Le Wi-Fi fonctionne-t-il ?",
+      "translation": "هل الواي فاي يعمل؟",
+      "romanization": "Hal al-wāy fāy ya'mal ?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "كم السعر؟",
+      "romanization": "Kam as-si'r ?"
+    },
+    {
+      "category": "shopping",
+      "french": "C'est trop cher.",
+      "translation": "هذا غالٍ جدا.",
+      "romanization": "Hādhā ghālin jiddan."
+    },
+    {
+      "category": "shopping",
+      "french": "Je voudrais essayer ceci.",
+      "translation": "أريد تجربة هذا.",
+      "romanization": "Urīdu tajribat hādhā."
+    },
+    {
+      "category": "health",
+      "french": "J'ai besoin d'un médecin.",
+      "translation": "أحتاج إلى طبيب.",
+      "romanization": "Aḥtāju ilā ṭabīb."
+    },
+    {
+      "category": "health",
+      "french": "Où est l'hôpital le plus proche ?",
+      "translation": "أين أقرب مستشفى؟",
+      "romanization": "Ayna aqrab mustashfā ?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis allergique à...",
+      "translation": "أنا حساس من...",
+      "romanization": "Anā ḥassās min..."
+    },
+    {
+      "category": "police",
+      "french": "Où est le commissariat de police ?",
+      "translation": "أين مركز الشرطة؟",
+      "romanization": "Ayna markaz ash-shurṭa ?"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport.",
+      "translation": "لقد فقدت جوازي.",
+      "romanization": "Laqad faqadtu jawāzī."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon sac.",
+      "translation": "سُرقت حقيبتي.",
+      "romanization": "Suriqat ḥaqībatī."
+    }
+  ]
+}
