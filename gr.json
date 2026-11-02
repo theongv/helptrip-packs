@@ -1,0 +1,157 @@
+{
+  "format": 1,
+  "countryCode": "GR",
+  "version": "2026-10-20",
+  "languageCode": "el-GR",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Grèce",
+    "capital": "Athènes",
+    "utcOffset": "UTC+2 (UTC+3 en été, heure d'été européenne)",
+    "policeNumber": "100",
+    "fireNumber": "199",
+    "ambulanceNumber": "166",
+    "extraEmergencyLabel": "Numéro d'urgence européen",
+    "extraEmergencyNumber": "112",
+    "embassyName": "Ambassade de France",
+    "embassyAddress": "7 avenue Vassilissis Sofias, 10671 Athènes, Grèce",
+    "embassyPhone": "+30 210 339 1000",
+    "embassyNote": "Consulat général de France à Athènes : 6 rue Akadimias, 10671 Athènes (téléphone non publié). Consulat général de France à Thessalonique : 2A Leoforos Stratou, 54640 Thessalonique (téléphone non publié).",
+    "tippingInfo": "Le pourboire n'est pas obligatoire ; il est courant d'arrondir l'addition ou de laisser environ 5 à 10 % au restaurant.",
+    "tippingRate": "5-10 %",
+    "isEuMember": true
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Βοήθεια!",
+      "romanization": "Voítheia!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît.",
+      "translation": "Καλέστε ασθενοφόρο, σας παρακαλώ.",
+      "romanization": "Kaléste asthenofóro, sas parakaló."
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide.",
+      "translation": "Χρειάζομαι βοήθεια.",
+      "romanization": "Chreiázomai voítheia."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît.",
+      "translation": "Τον λογαριασμό, σας παρακαλώ.",
+      "romanization": "Ton logariasmó, sas parakaló."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis végétarien(ne).",
+      "translation": "Είμαι χορτοφάγος.",
+      "romanization": "Eímai chortofágos."
+    },
+    {
+      "category": "restaurant",
+      "french": "De l'eau, s'il vous plaît.",
+      "translation": "Νερό, σας παρακαλώ.",
+      "romanization": "Neró, sas parakaló."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Πού είναι ο σταθμός τρένου;",
+      "romanization": "Poú eínai o stathmós trénou?"
+    },
+    {
+      "category": "transport",
+      "french": "Combien coûte le billet ?",
+      "translation": "Πόσο κοστίζει το εισιτήριο;",
+      "romanization": "Póso kostízei to eisitírio?"
+    },
+    {
+      "category": "transport",
+      "french": "Je voudrais aller à...",
+      "translation": "Θα ήθελα να πάω στο...",
+      "romanization": "Tha íthela na páo sto..."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation.",
+      "translation": "Έχω κράτηση.",
+      "romanization": "Écho krátisi."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le petit-déjeuner ?",
+      "translation": "Τι ώρα είναι το πρωινό;",
+      "romanization": "Ti óra eínai to proinó?"
+    },
+    {
+      "category": "hotel",
+      "french": "Le Wi-Fi fonctionne-t-il ?",
+      "translation": "Λειτουργεί το Wi-Fi;",
+      "romanization": "Leitourgeí to Wi-Fi?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Πόσο κάνει αυτό;",
+      "romanization": "Póso kánei aftó?"
+    },
+    {
+      "category": "shopping",
+      "french": "C'est trop cher.",
+      "translation": "Είναι πολύ ακριβό.",
+      "romanization": "Eínai polý akrivó."
+    },
+    {
+      "category": "shopping",
+      "french": "Je voudrais essayer ceci.",
+      "translation": "Θα ήθελα να το δοκιμάσω.",
+      "romanization": "Tha íthela na to dokimáso."
+    },
+    {
+      "category": "health",
+      "french": "J'ai besoin d'un médecin.",
+      "translation": "Χρειάζομαι γιατρό.",
+      "romanization": "Chreiázomai giatró."
+    },
+    {
+      "category": "health",
+      "french": "Où est l'hôpital le plus proche ?",
+      "translation": "Πού είναι το πλησιέστερο νοσοκομείο;",
+      "romanization": "Poú eínai to plisiéstero nosokomeío?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis allergique à...",
+      "translation": "Είμαι αλλεργικός σε...",
+      "romanization": "Eímai allergikós se..."
+    },
+    {
+      "category": "police",
+      "french": "Où est le commissariat de police ?",
+      "translation": "Πού είναι το αστυνομικό τμήμα;",
+      "romanization": "Poú eínai to astynomikó tmíma?"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport.",
+      "translation": "Έχασα το διαβατήριό μου.",
+      "romanization": "Échasa to diavatírió mou."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon sac.",
+      "translation": "Μου έκλεψαν την τσάντα μου.",
+      "romanization": "Mou éklepsan tin tsánta mou."
+    }
+  ]
+}

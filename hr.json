@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "countryCode": "HR",
+  "version": "2026-10-20",
+  "languageCode": "hr-HR",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Croatie",
+    "capital": "Zagreb",
+    "utcOffset": "UTC+1 (UTC+2 en été, heure d'été européenne)",
+    "policeNumber": "192",
+    "fireNumber": "193",
+    "ambulanceNumber": "194",
+    "extraEmergencyLabel": "Numéro d'urgence européen",
+    "extraEmergencyNumber": "112",
+    "embassyName": "Ambassade de France",
+    "embassyAddress": "Almeria centar, Ul. grada Vukovara 284b, 10000 Zagreb, Croatie",
+    "embassyPhone": "+385 1 7776 359",
+    "tippingInfo": "Pourboire non obligatoire, service généralement inclus dans les prix ; environ 10 % apprécié au restaurant.",
+    "tippingRate": "10 %",
+    "isEuMember": true,
+    "embassyNote": "Secours maritime : 195."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Upomoć!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît.",
+      "translation": "Molim vas, zovite hitnu pomoć."
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide.",
+      "translation": "Treba mi pomoć."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît.",
+      "translation": "Račun, molim."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis végétarien(ne).",
+      "translation": "Ja sam vegetarijanac."
+    },
+    {
+      "category": "restaurant",
+      "french": "De l'eau, s'il vous plaît.",
+      "translation": "Vodu, molim."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Gdje je željeznički kolodvor?"
+    },
+    {
+      "category": "transport",
+      "french": "Combien coûte le billet ?",
+      "translation": "Koliko košta karta?"
+    },
+    {
+      "category": "transport",
+      "french": "Je voudrais aller à...",
+      "translation": "Želio bih ići u..."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation.",
+      "translation": "Imam rezervaciju."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le petit-déjeuner ?",
+      "translation": "U koliko sati je doručak?"
+    },
+    {
+      "category": "hotel",
+      "french": "Le Wi-Fi fonctionne-t-il ?",
+      "translation": "Radi li Wi-Fi?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Koliko to košta?"
+    },
+    {
+      "category": "shopping",
+      "french": "C'est trop cher.",
+      "translation": "To je preskupo."
+    },
+    {
+      "category": "shopping",
+      "french": "Je voudrais essayer ceci.",
+      "translation": "Želio bih ovo probati."
+    },
+    {
+      "category": "health",
+      "french": "J'ai besoin d'un médecin.",
+      "translation": "Treba mi liječnik."
+    },
+    {
+      "category": "health",
+      "french": "Où est l'hôpital le plus proche ?",
+      "translation": "Gdje je najbliža bolnica?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis allergique à...",
+      "translation": "Alergičan sam na..."
+    },
+    {
+      "category": "police",
+      "french": "Où est le commissariat de police ?",
+      "translation": "Gdje je policijska postaja?"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport.",
+      "translation": "Izgubio sam putovnicu."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon sac.",
+      "translation": "Ukradena mi je torba."
+    }
+  ]
+}

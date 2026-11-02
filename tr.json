@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "countryCode": "TR",
+  "version": "2026-10-20",
+  "languageCode": "tr-TR",
+  "currency": {
+    "code": "TRY",
+    "name": "Livre turque",
+    "symbol": "₺",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Turquie",
+    "capital": "Ankara",
+    "utcOffset": "UTC+3 (permanent depuis 2016)",
+    "policeNumber": "155",
+    "fireNumber": "110",
+    "ambulanceNumber": "112",
+    "extraEmergencyLabel": "Gendarmerie (zones rurales)",
+    "extraEmergencyNumber": "156",
+    "embassyName": "Ambassade de France",
+    "embassyAddress": "Paris Caddesi No 70, Kavaklıdere, 06540 Ankara, Turquie",
+    "embassyPhone": "+90 312 900 15 33",
+    "embassyNote": "Consulat général de France à Istanbul : Istiklal Caddesi No 4, Taksim, 34435 Istanbul.",
+    "tippingInfo": "Il est d'usage de laisser environ 10 % de l'addition au restaurant, même si le service est annoncé comme inclus (« servis dahil »), car le personnel compte sur le pourboire. Les paiements par carte n'incluent généralement pas le pourboire : prévoir des espèces.",
+    "tippingRate": "10 %",
+    "isEuMember": false,
+    "taxFreeInfo": "Détaxe possible pour un achat d'au moins 1 000 TRY HT dans un commerce affichant « Tax Free », sur présentation du passeport et d'un bordereau à faire valider par la douane avant de quitter le pays (avant l'enregistrement des bagages si les achats sont en soute, après le contrôle des passeports sinon). Remboursement ensuite via un opérateur agréé (ex. Global Exchange), rarement au taux plein.",
+    "customsInfo": "Au retour en France : franchise de 430 € par avion/bateau, 300 € par voie terrestre (voyageurs de 15 ans et plus). Alcool : 4L de vin + 16L de bière + 1L d'alcool fort (ou 2L à 22° ou moins). Tabac : 200 cigarettes ou équivalent proportionnel."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "İmdat!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît.",
+      "translation": "Lütfen bir ambulans çağırın."
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide.",
+      "translation": "Yardıma ihtiyacım var."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît.",
+      "translation": "Hesap, lütfen."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis végétarien(ne).",
+      "translation": "Ben vejeteryanım."
+    },
+    {
+      "category": "restaurant",
+      "french": "De l'eau, s'il vous plaît.",
+      "translation": "Su, lütfen."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Tren istasyonu nerede?"
+    },
+    {
+      "category": "transport",
+      "french": "Combien coûte le billet ?",
+      "translation": "Bilet ne kadar?"
+    },
+    {
+      "category": "transport",
+      "french": "Je voudrais aller à...",
+      "translation": "Gitmek istiyorum..."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation.",
+      "translation": "Rezervasyonum var."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le petit-déjeuner ?",
+      "translation": "Kahvaltı saat kaçta?"
+    },
+    {
+      "category": "hotel",
+      "french": "Le Wi-Fi fonctionne-t-il ?",
+      "translation": "Wi-Fi çalışıyor mu?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Bu ne kadar?"
+    },
+    {
+      "category": "shopping",
+      "french": "C'est trop cher.",
+      "translation": "Bu çok pahalı."
+    },
+    {
+      "category": "shopping",
+      "french": "Je voudrais essayer ceci.",
+      "translation": "Bunu denemek istiyorum."
+    },
+    {
+      "category": "health",
+      "french": "J'ai besoin d'un médecin.",
+      "translation": "Bir doktora ihtiyacım var."
+    },
+    {
+      "category": "health",
+      "french": "Où est l'hôpital le plus proche ?",
+      "translation": "En yakın hastane nerede?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis allergique à...",
+      "translation": "Alerjim var..."
+    },
+    {
+      "category": "police",
+      "french": "Où est le commissariat de police ?",
+      "translation": "Polis karakolu nerede?"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport.",
+      "translation": "Pasaportumu kaybettim."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon sac.",
+      "translation": "Çantam çalındı."
+    }
+  ]
+}
