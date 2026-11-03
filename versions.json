@@ -64,6 +64,10 @@
     "US": {
       "version": "2026-10-20",
       "commit": "f3a13de430dae568a3e96a6fe2d3fe06c1c4bbcb"
+    },
+    "ZA": {
+      "version": "2026-11-03",
+      "commit": "c3c67e441819399078e365c43378baa5d17426b4"
     }
   }
 }
