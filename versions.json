@@ -45,6 +45,10 @@
       "version": "2026-10-12",
       "commit": "606eb8f64e5ee415eb00e1468b849f4d9afd1471"
     },
+    "MT": {
+      "version": "2026-11-04",
+      "commit": "f87fa41718ea59db95210961dbba9ace03aa106e"
+    },
     "PT": {
       "version": "2026-10-05",
       "commit": "5177ea8fa04794f72be1067bb2c094402fe8f30b"
