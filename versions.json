@@ -37,6 +37,10 @@
       "version": "2026-11-02",
       "commit": "9c4f60ec45b45a37b3a7ce59e71cc921a7c91789"
     },
+    "IN": {
+      "version": "2026-11-04",
+      "commit": "06fd33174946d3639e97baabe1ea54d3dfb9d973"
+    },
     "IT": {
       "version": "2026-10-05.3",
       "commit": "5177ea8fa04794f72be1067bb2c094402fe8f30b"
@@ -60,6 +64,10 @@
     "PT": {
       "version": "2026-10-05",
       "commit": "5177ea8fa04794f72be1067bb2c094402fe8f30b"
+    },
+    "QA": {
+      "version": "2026-11-04",
+      "commit": "06fd33174946d3639e97baabe1ea54d3dfb9d973"
     },
     "SG": {
       "version": "2026-11-04",
