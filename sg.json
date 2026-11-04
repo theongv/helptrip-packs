@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "countryCode": "SG",
+  "version": "2026-11-04",
+  "languageCode": "en-GB",
+  "currency": {
+    "code": "SGD",
+    "name": "Dollar de Singapour",
+    "symbol": "S$",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "à Singapour",
+    "policeNumber": "999",
+    "ambulanceNumber": "995",
+    "fireNumber": "995",
+    "embassyName": "Ambassade de France à Singapour",
+    "embassyAddress": "101-103 Cluny Park Road, Singapour 259595",
+    "embassyPhone": "+65 68 80 78 00",
+    "isEuMember": false,
+    "capital": "Singapour",
+    "utcOffset": "UTC+8",
+    "tippingInfo": "Pas obligatoire. Tu peux laisser un peu de petite monnaie dans les petits restaurants. Repères indicatifs, pas des règles : vérifie sur place.",
+    "customsInfo": "Retour en France depuis un pays hors UE, pour les voyageurs de 15 ans et plus : franchise de 430 € par avion ou bateau, 300 € par un autre moyen. Tabac : 200 cigarettes ou 100 cigarillos ou 50 cigares ou 250 g de tabac à fumer (non cumulables). Alcool : 4 L de vin tranquille, 16 L de bière, et 1 L de boissons de plus de 22° ou 2 L de 22° ou moins.",
+    "taxFreeInfo": "Remboursement de la GST via l'eTRS : achats d'au moins 100 SGD (GST incluse), cumulables sur trois factures du même jour chez un même commerçant (même numéro GST et même nom de boutique) ; demande aux bornes eTRS de l'aéroport de Changi ou de Seletar avant de quitter Singapour (avant l'enregistrement des bagages si les articles sont enregistrés, après l'immigration si tu les gardes en cabine). Exclus : services, hébergement, biens consommés à Singapour, achats professionnels, fret. Vérifie avant d'acheter."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Help!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît.",
+      "translation": "Please call an ambulance."
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide.",
+      "translation": "I need help."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît.",
+      "translation": "The bill, please."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis végétarien(ne).",
+      "translation": "I am vegetarian."
+    },
+    {
+      "category": "restaurant",
+      "french": "De l'eau, s'il vous plaît.",
+      "translation": "Water, please."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Where is the train station?"
+    },
+    {
+      "category": "transport",
+      "french": "Combien coûte le billet ?",
+      "translation": "How much is the ticket?"
+    },
+    {
+      "category": "transport",
+      "french": "Je voudrais aller à...",
+      "translation": "I would like to go to..."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation.",
+      "translation": "I have a reservation."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le petit-déjeuner ?",
+      "translation": "What time is breakfast?"
+    },
+    {
+      "category": "hotel",
+      "french": "Le Wi-Fi fonctionne-t-il ?",
+      "translation": "Does the Wi-Fi work?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "How much does this cost?"
+    },
+    {
+      "category": "shopping",
+      "french": "C'est trop cher.",
+      "translation": "That's too expensive."
+    },
+    {
+      "category": "shopping",
+      "french": "Je voudrais essayer ceci.",
+      "translation": "I would like to try this on."
+    },
+    {
+      "category": "health",
+      "french": "J'ai besoin d'un médecin.",
+      "translation": "I need a doctor."
+    },
+    {
+      "category": "health",
+      "french": "Où est l'hôpital le plus proche ?",
+      "translation": "Where is the nearest hospital?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis allergique à...",
+      "translation": "I am allergic to..."
+    },
+    {
+      "category": "police",
+      "french": "Où est le commissariat de police ?",
+      "translation": "Where is the police station?"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport.",
+      "translation": "I lost my passport."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon sac.",
+      "translation": "My bag was stolen."
+    }
+  ]
+}
