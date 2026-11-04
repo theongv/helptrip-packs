@@ -49,6 +49,10 @@
       "version": "2026-10-05.2",
       "commit": "5177ea8fa04794f72be1067bb2c094402fe8f30b"
     },
+    "KE": {
+      "version": "2026-11-04",
+      "commit": "5aac094c3d50d3ac8c796d741a13ad66baefbc27"
+    },
     "MA": {
       "version": "2026-10-12",
       "commit": "606eb8f64e5ee415eb00e1468b849f4d9afd1471"
@@ -56,6 +60,10 @@
     "MT": {
       "version": "2026-11-04",
       "commit": "f87fa41718ea59db95210961dbba9ace03aa106e"
+    },
+    "MY": {
+      "version": "2026-11-04",
+      "commit": "5aac094c3d50d3ac8c796d741a13ad66baefbc27"
     },
     "NZ": {
       "version": "2026-11-04",
@@ -92,6 +100,10 @@
     "TR": {
       "version": "2026-10-20",
       "commit": "3ef9c40393f9e04bf7986f2f0a001837b0ce2c2e"
+    },
+    "TZ": {
+      "version": "2026-11-04",
+      "commit": "5aac094c3d50d3ac8c796d741a13ad66baefbc27"
     },
     "US": {
       "version": "2026-10-20",
