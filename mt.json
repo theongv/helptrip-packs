@@ -1,0 +1,133 @@
+{
+  "format": 1,
+  "countryCode": "MT",
+  "version": "2026-11-04",
+  "languageCode": "en-GB",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "à Malte",
+    "policeNumber": "112",
+    "ambulanceNumber": "112",
+    "fireNumber": "112",
+    "embassyName": "Ambassade de France",
+    "embassyAddress": "130 Melita Street, La Valette VLT 1123",
+    "embassyPhone": "+356 2778 1747",
+    "isEuMember": true,
+    "capital": "La Valette",
+    "utcOffset": "UTC+1 (UTC+2 en été)",
+    "tippingInfo": "Pas obligatoire. 5 à 10 % pour un bon service si le service n'est pas déjà inclus ; arrondir est aussi accepté. Si l'addition indique \"service included\" ou \"service charge\", ne rien ajouter. Au comptoir (café, pastizzeria), rien n'est normalement attendu.",
+    "tippingRate": "5-10 %"
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Help!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît.",
+      "translation": "Please call an ambulance."
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide.",
+      "translation": "I need help."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît.",
+      "translation": "The bill, please."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis végétarien(ne).",
+      "translation": "I am vegetarian."
+    },
+    {
+      "category": "restaurant",
+      "french": "De l'eau, s'il vous plaît.",
+      "translation": "Water, please."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Where is the train station?"
+    },
+    {
+      "category": "transport",
+      "french": "Combien coûte le billet ?",
+      "translation": "How much is the ticket?"
+    },
+    {
+      "category": "transport",
+      "french": "Je voudrais aller à...",
+      "translation": "I would like to go to..."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation.",
+      "translation": "I have a reservation."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le petit-déjeuner ?",
+      "translation": "What time is breakfast?"
+    },
+    {
+      "category": "hotel",
+      "french": "Le Wi-Fi fonctionne-t-il ?",
+      "translation": "Does the Wi-Fi work?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "How much does this cost?"
+    },
+    {
+      "category": "shopping",
+      "french": "C'est trop cher.",
+      "translation": "That's too expensive."
+    },
+    {
+      "category": "shopping",
+      "french": "Je voudrais essayer ceci.",
+      "translation": "I would like to try this on."
+    },
+    {
+      "category": "health",
+      "french": "J'ai besoin d'un médecin.",
+      "translation": "I need a doctor."
+    },
+    {
+      "category": "health",
+      "french": "Où est l'hôpital le plus proche ?",
+      "translation": "Where is the nearest hospital?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis allergique à...",
+      "translation": "I am allergic to..."
+    },
+    {
+      "category": "police",
+      "french": "Où est le commissariat de police ?",
+      "translation": "Where is the police station?"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport.",
+      "translation": "I lost my passport."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon sac.",
+      "translation": "My bag was stolen."
+    }
+  ]
+}
