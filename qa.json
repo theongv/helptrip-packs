@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "countryCode": "QA",
+  "version": "2026-11-04",
+  "languageCode": "ar",
+  "currency": {
+    "code": "QAR",
+    "name": "Riyal qatari",
+    "symbol": "QAR",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "au Qatar",
+    "policeNumber": "999",
+    "ambulanceNumber": "999",
+    "fireNumber": "999",
+    "embassyName": "Ambassade de France au Qatar",
+    "embassyAddress": "West Bay, Diplomatic area, PO Box 2669, Doha",
+    "embassyPhone": "+974 77 81 62 81",
+    "isEuMember": false,
+    "capital": "Doha",
+    "utcOffset": "UTC+3",
+    "tippingInfo": "La plupart des établissements incluent des frais de service dans l'addition. Un pourboire de 10 à 15 % reste apprécié en signe de satisfaction ; prévois des espèces. Repères indicatifs, pas des règles : vérifie sur place.",
+    "tippingRate": "10-15 %",
+    "customsInfo": "Retour en France depuis un pays hors UE, pour les voyageurs de 15 ans et plus : franchise de 430 € par avion ou bateau, 300 € par un autre moyen. Tabac : 200 cigarettes ou 100 cigarillos ou 50 cigares ou 250 g de tabac à fumer (non cumulables). Alcool : 4 L de vin tranquille, 16 L de bière, et 1 L de boissons de plus de 22° ou 2 L de 22° ou moins.",
+    "taxFreeInfo": "Pas de TVA au Qatar d'après l'administration fiscale : il n'y a donc pas de détaxe à demander. Vérifie avant d'acheter."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "النجدة!",
+      "romanization": "An-najda !"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît.",
+      "translation": "اتصل بالإسعاف من فضلك.",
+      "romanization": "Ittasil bil-is'āf min faḍlik."
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide.",
+      "translation": "أحتاج إلى مساعدة.",
+      "romanization": "Aḥtāju ilā musā'ada."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît.",
+      "translation": "الحساب من فضلك.",
+      "romanization": "Al-ḥisāb min faḍlik."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis végétarien(ne).",
+      "translation": "أنا نباتي.",
+      "romanization": "Anā nabātī."
+    },
+    {
+      "category": "restaurant",
+      "french": "De l'eau, s'il vous plaît.",
+      "translation": "ماء من فضلك.",
+      "romanization": "Mā' min faḍlik."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "أين المحطة؟",
+      "romanization": "Ayna al-maḥaṭṭa ?"
+    },
+    {
+      "category": "transport",
+      "french": "Combien coûte le billet ?",
+      "translation": "كم تكلفة التذكرة؟",
+      "romanization": "Kam taklifat at-tadhkara ?"
+    },
+    {
+      "category": "transport",
+      "french": "Je voudrais aller à...",
+      "translation": "أريد الذهاب إلى...",
+      "romanization": "Urīdu adh-dhahāba ilā..."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation.",
+      "translation": "لدي حجز.",
+      "romanization": "Ladayya ḥajz."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le petit-déjeuner ?",
+      "translation": "في أي وقت الفطور؟",
+      "romanization": "Fī ayyi waqt al-fuṭūr ?"
+    },
+    {
+      "category": "hotel",
+      "french": "Le Wi-Fi fonctionne-t-il ?",
+      "translation": "هل الواي فاي يعمل؟",
+      "romanization": "Hal al-wāy fāy ya'mal ?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "كم السعر؟",
+      "romanization": "Kam as-si'r ?"
+    },
+    {
+      "category": "shopping",
+      "french": "C'est trop cher.",
+      "translation": "هذا غالٍ جدا.",
+      "romanization": "Hādhā ghālin jiddan."
+    },
+    {
+      "category": "shopping",
+      "french": "Je voudrais essayer ceci.",
+      "translation": "أريد تجربة هذا.",
+      "romanization": "Urīdu tajribat hādhā."
+    },
+    {
+      "category": "health",
+      "french": "J'ai besoin d'un médecin.",
+      "translation": "أحتاج إلى طبيب.",
+      "romanization": "Aḥtāju ilā ṭabīb."
+    },
+    {
+      "category": "health",
+      "french": "Où est l'hôpital le plus proche ?",
+      "translation": "أين أقرب مستشفى؟",
+      "romanization": "Ayna aqrab mustashfā ?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis allergique à...",
+      "translation": "أنا حساس من...",
+      "romanization": "Anā ḥassās min..."
+    },
+    {
+      "category": "police",
+      "french": "Où est le commissariat de police ?",
+      "translation": "أين مركز الشرطة؟",
+      "romanization": "Ayna markaz ash-shurṭa ?"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport.",
+      "translation": "لقد فقدت جوازي.",
+      "romanization": "Laqad faqadtu jawāzī."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon sac.",
+      "translation": "سُرقت حقيبتي.",
+      "romanization": "Suriqat ḥaqībatī."
+    }
+  ]
+}
