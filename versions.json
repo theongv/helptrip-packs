@@ -5,6 +5,10 @@
       "version": "2026-11-02",
       "commit": "226884089fe9b74666b04c0d0466992357d1ad08"
     },
+    "AU": {
+      "version": "2026-11-04",
+      "commit": "7392cf3e08b3c8e5271807ba44534958c7d6b65f"
+    },
     "CA": {
       "version": "2026-11-02",
       "commit": "9c4f60ec45b45a37b3a7ce59e71cc921a7c91789"
@@ -49,9 +53,17 @@
       "version": "2026-11-04",
       "commit": "f87fa41718ea59db95210961dbba9ace03aa106e"
     },
+    "NZ": {
+      "version": "2026-11-04",
+      "commit": "7392cf3e08b3c8e5271807ba44534958c7d6b65f"
+    },
     "PT": {
       "version": "2026-10-05",
       "commit": "5177ea8fa04794f72be1067bb2c094402fe8f30b"
+    },
+    "SG": {
+      "version": "2026-11-04",
+      "commit": "7392cf3e08b3c8e5271807ba44534958c7d6b65f"
     },
     "TH": {
       "version": "2026-10-05.2",
