@@ -13,6 +13,10 @@
       "version": "2026-11-04",
       "commit": "0487db3e39a62e7969f82f46f5c4ad184813a7bc"
     },
+    "BS": {
+      "version": "2026-11-04",
+      "commit": "71f5b7bfdfe1b97804820786edda497c64c5d1d0"
+    },
     "BW": {
       "version": "2026-11-04",
       "commit": "0487db3e39a62e7969f82f46f5c4ad184813a7bc"
@@ -28,6 +32,10 @@
     "ES": {
       "version": "2026-10-05.2",
       "commit": "5177ea8fa04794f72be1067bb2c094402fe8f30b"
+    },
+    "FJ": {
+      "version": "2026-11-04",
+      "commit": "71f5b7bfdfe1b97804820786edda497c64c5d1d0"
     },
     "GB": {
       "version": "2026-10-20",
