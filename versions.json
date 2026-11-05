@@ -25,6 +25,10 @@
       "version": "2026-11-02",
       "commit": "9c4f60ec45b45a37b3a7ce59e71cc921a7c91789"
     },
+    "CY": {
+      "version": "2026-11-05",
+      "commit": "7a966ca4d843ce6dcde760fd32288735215b4e9b"
+    },
     "EG": {
       "version": "2026-10-20",
       "commit": "f3a13de430dae568a3e96a6fe2d3fe06c1c4bbcb"
