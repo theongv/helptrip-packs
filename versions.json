@@ -17,6 +17,10 @@
       "version": "2026-11-04",
       "commit": "0487db3e39a62e7969f82f46f5c4ad184813a7bc"
     },
+    "BG": {
+      "version": "2026-11-05",
+      "commit": "474dfb2a3f35b2b185ced1fc81b68365fb174510"
+    },
     "BR": {
       "version": "2026-11-05",
       "commit": "315794fb44086c84929e30cd0322cd89e008bdc3"
@@ -37,9 +41,17 @@
       "version": "2026-11-05",
       "commit": "7a966ca4d843ce6dcde760fd32288735215b4e9b"
     },
+    "CZ": {
+      "version": "2026-11-05",
+      "commit": "474dfb2a3f35b2b185ced1fc81b68365fb174510"
+    },
     "DE": {
       "version": "2026-11-05",
       "commit": "315794fb44086c84929e30cd0322cd89e008bdc3"
+    },
+    "DK": {
+      "version": "2026-11-05",
+      "commit": "474dfb2a3f35b2b185ced1fc81b68365fb174510"
     },
     "DO": {
       "version": "2026-11-02",
@@ -68,6 +80,10 @@
     "HR": {
       "version": "2026-10-20",
       "commit": "3ef9c40393f9e04bf7986f2f0a001837b0ce2c2e"
+    },
+    "HU": {
+      "version": "2026-11-05",
+      "commit": "474dfb2a3f35b2b185ced1fc81b68365fb174510"
     },
     "IE": {
       "version": "2026-11-02",
@@ -129,6 +145,10 @@
       "version": "2026-11-04",
       "commit": "b0a232cd8919e91f385f61dd1ab851df14072e03"
     },
+    "PL": {
+      "version": "2026-11-05",
+      "commit": "474dfb2a3f35b2b185ced1fc81b68365fb174510"
+    },
     "PT": {
       "version": "2026-10-05",
       "commit": "5177ea8fa04794f72be1067bb2c094402fe8f30b"
@@ -137,9 +157,21 @@
       "version": "2026-11-04",
       "commit": "06fd33174946d3639e97baabe1ea54d3dfb9d973"
     },
+    "RO": {
+      "version": "2026-11-05",
+      "commit": "474dfb2a3f35b2b185ced1fc81b68365fb174510"
+    },
+    "SE": {
+      "version": "2026-11-05",
+      "commit": "474dfb2a3f35b2b185ced1fc81b68365fb174510"
+    },
     "SG": {
       "version": "2026-11-04",
       "commit": "7392cf3e08b3c8e5271807ba44534958c7d6b65f"
+    },
+    "SI": {
+      "version": "2026-11-05",
+      "commit": "474dfb2a3f35b2b185ced1fc81b68365fb174510"
     },
     "TH": {
       "version": "2026-10-05.2",
