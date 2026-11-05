@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "countryCode": "RO",
+  "version": "2026-11-05",
+  "languageCode": "ro-RO",
+  "currency": {
+    "code": "RON",
+    "name": "Leu roumain",
+    "symbol": "RON",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Roumanie",
+    "policeNumber": "112",
+    "ambulanceNumber": "112",
+    "fireNumber": "112",
+    "embassyName": "Ambassade de France en Roumanie",
+    "embassyAddress": "13-15 Strada Biserica Amzei, Secteur 1, 010392 Bucarest",
+    "embassyPhone": "+40 311 333 777",
+    "isEuMember": true,
+    "capital": "Bucarest",
+    "utcOffset": "UTC+2 (UTC+3 en été)",
+    "tippingInfo": "Au restaurant, on laisse environ 10 % de l'addition si le service a plu, dans l'étui de l'addition ou directement au serveur. En taxi, on arrondit pour remercier d'un service particulier. Repères indicatifs, pas des règles.",
+    "tippingRate": "10 %"
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Ajutor!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Chemați o ambulanță, vă rog!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Am nevoie de ajutor."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Unde este spitalul?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Unde este toaleta?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "Meniul, vă rog."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Am alergie la arahide."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "Nota, vă rog."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Unde este gara?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "Un bilet dus-întors, vă rog."
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il au centre-ville ?",
+      "translation": "Acest tren merge în centrul orașului?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "La această adresă, vă rog."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Am o rezervare."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "Până la ce oră trebuie să eliberez camera?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Îmi puteți păstra bagajele?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Cât costă?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Pot plăti cu cardul?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Doar mă uit, mulțumesc."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Mă doare aici."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Unde este farmacia?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Am diabet."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Mi s-a furat portofelul."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Mi-am pierdut pașaportul."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Unde este secția de poliție?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}

@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "countryCode": "HU",
+  "version": "2026-11-05",
+  "languageCode": "hu-HU",
+  "currency": {
+    "code": "HUF",
+    "name": "Forint hongrois",
+    "symbol": "Ft",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Hongrie",
+    "policeNumber": "112",
+    "ambulanceNumber": "112",
+    "fireNumber": "112",
+    "embassyName": "Ambassade de France en Hongrie",
+    "embassyAddress": "Kossuth Lajos tér 13-15, 1055 Budapest",
+    "embassyPhone": "+36 1 374 11 00",
+    "isEuMember": true,
+    "capital": "Budapest",
+    "utcOffset": "UTC+1 (UTC+2 en été)",
+    "tippingInfo": "De plus en plus de restaurants, surtout à Budapest, ajoutent d'office le pourboire sur l'addition (souvent en petits caractères sur le menu) : 10 % est l'usage. S'il n'est pas inclus, il est attendu. Repères indicatifs, pas des règles.",
+    "tippingRate": "10 %"
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Segítség!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Kérem, hívjon mentőt!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Segítségre van szükségem."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Hol van a kórház?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Hol van a mosdó?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "Az étlapot, kérem."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Allergiás vagyok a földimogyoróra."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "A számlát, kérem."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Hol van a vasútállomás?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "Egy retúrjegyet kérek."
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il au centre-ville ?",
+      "translation": "Ez a vonat a belvárosba megy?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "Erre a címre, kérem."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Foglalásom van."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "Hánykor kell elhagyni a szobát?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Meg tudná őrizni a csomagjaimat?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Mennyibe kerül?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Fizethetek kártyával?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Csak nézelődöm, köszönöm."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Itt fáj."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Hol van a gyógyszertár?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Cukorbeteg vagyok."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Ellopták a pénztárcámat."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Elvesztettem az útlevelemet."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Hol van a rendőrség?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}

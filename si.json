@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "countryCode": "SI",
+  "version": "2026-11-05",
+  "languageCode": "sl-SI",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Slovénie",
+    "policeNumber": "113",
+    "ambulanceNumber": "112",
+    "fireNumber": "112",
+    "embassyName": "Ambassade de France en Slovénie",
+    "embassyAddress": "Barjanska cesta 1, 1000 Ljubljana",
+    "embassyPhone": "+386 1 479 04 00",
+    "isEuMember": true,
+    "capital": "Ljubljana",
+    "utcOffset": "UTC+1 (UTC+2 en été)",
+    "tippingInfo": "Il est d'usage, sans être obligatoire, de laisser 5 à 15 % de la note. En payant par carte, le terminal propose souvent un pourcentage. Repères indicatifs, pas des règles.",
+    "tippingRate": "5-15 %"
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Na pomoč!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Pokličite rešilca, prosim!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Potrebujem pomoč."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Kje je bolnišnica?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Kje je stranišče?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "Jedilni list, prosim."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Imam alergijo na arašide."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "Račun, prosim."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Kje je železniška postaja?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "Povratno vozovnico, prosim."
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il au centre-ville ?",
+      "translation": "Ali ta vlak pelje v center mesta?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "Na ta naslov, prosim."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Imam rezervacijo."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "Do katere ure moram sprostiti sobo?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Ali mi lahko shranite prtljago?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Koliko stane?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Ali lahko plačam s kartico?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Samo gledam, hvala."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Tukaj me boli."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Kje je lekarna?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Imam sladkorno bolezen."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Ukradli so mi denarnico."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Izgubil se mi je potni list."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Kje je policijska postaja?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}

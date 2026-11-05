@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "countryCode": "DK",
+  "version": "2026-11-05",
+  "languageCode": "da-DK",
+  "currency": {
+    "code": "DKK",
+    "name": "Couronne danoise",
+    "symbol": "kr.",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "au Danemark",
+    "policeNumber": "112",
+    "ambulanceNumber": "112",
+    "fireNumber": "112",
+    "embassyName": "Ambassade de France au Danemark",
+    "embassyAddress": "Kongens Nytorv 4, 1050 Copenhague",
+    "embassyPhone": "+45 33 67 01 00",
+    "isEuMember": true,
+    "capital": "Copenhague",
+    "utcOffset": "UTC+1 (UTC+2 en été)",
+    "tippingInfo": "Le pourboire n'est pas une tradition : le service est normalement compris au restaurant, à l'hôtel et dans les taxis. Pour un service exceptionnel, 10 % suffisent. Repère donné pour Copenhague."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Hjælp!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Ring venligst efter en ambulance!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Jeg har brug for hjælp."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Hvor er hospitalet?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Hvor er toilettet?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "Menukortet, tak."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Jeg er allergisk over for jordnødder."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "Regningen, tak."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Hvor er banegården?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "En returbillet, tak."
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il au centre-ville ?",
+      "translation": "Kører dette tog til centrum?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "Til denne adresse, tak."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Jeg har en reservation."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "Hvornår skal jeg tjekke ud?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Kan I opbevare min bagage?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Hvad koster det?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Kan jeg betale med kort?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Jeg kigger bare, tak."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Det gør ondt her."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Hvor er apoteket?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Jeg har diabetes."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Min tegnebog er blevet stjålet."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Jeg har mistet mit pas."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Hvor er politistationen?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}

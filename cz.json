@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "countryCode": "CZ",
+  "version": "2026-11-05",
+  "languageCode": "cs-CZ",
+  "currency": {
+    "code": "CZK",
+    "name": "Couronne tchèque",
+    "symbol": "Kč",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Tchéquie",
+    "policeNumber": "112",
+    "ambulanceNumber": "112",
+    "fireNumber": "112",
+    "embassyName": "Ambassade de France en République tchèque",
+    "embassyAddress": "Velkoprevorské Namesti 2 - Mala Strana, 11801 Prague",
+    "embassyPhone": "+420 251 17 17 11",
+    "isEuMember": true,
+    "capital": "Prague",
+    "utcOffset": "UTC+1 (UTC+2 en été)",
+    "tippingInfo": "Le service est toujours compris. Au restaurant, les Tchèques arrondissent à la dizaine ou à la vingtaine de couronnes supérieure ; dans les établissements chics, comptez 5 à 10 %. Vérifie la note : 15 ou 20 % sont parfois ajoutés d'office. Repères indicatifs, pas des règles.",
+    "tippingRate": "5-10 % (établissements chics)"
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Pomoc!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Zavolejte prosím sanitku!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Potřebuji pomoc."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Kde je nemocnice?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Kde jsou toalety?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "Jídelní lístek, prosím."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Mám alergii na arašídy."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "Účet, prosím."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Kde je nádraží?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "Zpáteční jízdenku, prosím."
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il au centre-ville ?",
+      "translation": "Jede tento vlak do centra?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "Na tuto adresu, prosím."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Mám rezervaci."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "Do kolika hodin musím uvolnit pokoj?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Můžete mi uschovat zavazadla?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Kolik to stojí?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Mohu platit kartou?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Jen se dívám, děkuji."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Tady mě to bolí."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Kde je lékárna?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Mám cukrovku."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Ukradli mi peněženku."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Ztratil se mi pas."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Kde je policejní stanice?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}

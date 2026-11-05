@@ -1,0 +1,172 @@
+{
+  "format": 1,
+  "countryCode": "BG",
+  "version": "2026-11-05",
+  "languageCode": "bg-BG",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Bulgarie",
+    "policeNumber": "166",
+    "ambulanceNumber": "150",
+    "fireNumber": "112",
+    "embassyName": "Ambassade de France en Bulgarie",
+    "embassyAddress": "27-29, rue Oborichté, 1504 Sofia",
+    "embassyPhone": "+359 2 965 11 00",
+    "isEuMember": true,
+    "capital": "Sofia",
+    "utcOffset": "UTC+2 (UTC+3 en été)",
+    "tippingInfo": "Le service est inclus dans la plupart des restaurants ; on peut laisser quelques pièces si l'on a passé un bon moment, sans obligation. En taxi, on arrondit le prix de la course."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Помощ!",
+      "romanization": "Pomosht!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Моля, повикайте линейка!",
+      "romanization": "Molya, povikayte lineyka!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Имам нужда от помощ.",
+      "romanization": "Imam nuzhda ot pomosht."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Къде е болницата?",
+      "romanization": "Kade e bolnitsata?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Къде е тоалетната?",
+      "romanization": "Kade e toaletnata?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "Менюто, моля.",
+      "romanization": "Menyuto, molya."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Имам алергия към фъстъци.",
+      "romanization": "Imam alergiya kam fastatsi."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "Сметката, моля.",
+      "romanization": "Smetkata, molya."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Къде е гарата?",
+      "romanization": "Kade e garata?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "Билет за отиване и връщане, моля.",
+      "romanization": "Bilet za otivane i vrashtane, molya."
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il au centre-ville ?",
+      "translation": "Този влак отива ли до центъра?",
+      "romanization": "Tozi vlak otiva li do tsentara?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "На този адрес, моля.",
+      "romanization": "Na tozi adres, molya."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Имам резервация.",
+      "romanization": "Imam rezervatsiya."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "До колко часа трябва да освободя стаята?",
+      "romanization": "Do kolko chasa tryabva da osvobodya stayata?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Можете ли да пазите багажа ми?",
+      "romanization": "Mozhete li da pazite bagazha mi?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Колко струва?",
+      "romanization": "Kolko struva?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Мога ли да платя с карта?",
+      "romanization": "Moga li da platya s karta?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Само разглеждам, благодаря.",
+      "romanization": "Samo razglezhdam, blagodarya."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Тук ме боли.",
+      "romanization": "Tuk me boli."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Къде е аптеката?",
+      "romanization": "Kade e aptekata?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Имам диабет.",
+      "romanization": "Imam diabet."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Откраднаха ми портфейла.",
+      "romanization": "Otkradnaha mi portfeyla."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Изгубих паспорта си.",
+      "romanization": "Izgubih pasporta si."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Къде е полицейският участък?",
+      "romanization": "Kade e politseyskiyat uchastak?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}

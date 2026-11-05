@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "countryCode": "SE",
+  "version": "2026-11-05",
+  "languageCode": "sv-SE",
+  "currency": {
+    "code": "SEK",
+    "name": "Couronne suédoise",
+    "symbol": "kr",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Suède",
+    "policeNumber": "112",
+    "ambulanceNumber": "112",
+    "fireNumber": "112",
+    "embassyName": "Ambassade de France en Suède",
+    "embassyAddress": "Kommendörsgatan 13, Box 5135, 10243 Stockholm",
+    "embassyPhone": "+46 8 45 95 300",
+    "isEuMember": true,
+    "capital": "Stockholm",
+    "utcOffset": "UTC+1 (UTC+2 en été)",
+    "tippingInfo": "Le pourboire est apprécié mais pas attendu. Au restaurant, on arrondit souvent l'addition (par exemple de 280 à 300 SEK) ; un pourboire de 10 % est un repère simple. Le service est parfois compris : c'est alors indiqué sur l'addition."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Hjälp!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Ring efter en ambulans, tack!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Jag behöver hjälp."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Var ligger sjukhuset?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Var är toaletten?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "Menyn, tack."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Jag är allergisk mot jordnötter."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "Notan, tack."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Var ligger järnvägsstationen?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "En tur och retur, tack."
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il au centre-ville ?",
+      "translation": "Går det här tåget till centrum?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "Till den här adressen, tack."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Jag har en bokning."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "Hur dags måste jag checka ut?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Kan ni förvara mitt bagage?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Vad kostar det?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Kan jag betala med kort?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Jag tittar bara, tack."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Det gör ont här."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Var ligger apoteket?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Jag har diabetes."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Min plånbok har blivit stulen."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Jag har tappat bort mitt pass."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Var ligger polisstationen?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}

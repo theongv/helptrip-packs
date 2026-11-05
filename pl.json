@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "countryCode": "PL",
+  "version": "2026-11-05",
+  "languageCode": "pl-PL",
+  "currency": {
+    "code": "PLN",
+    "name": "Zloty polonais",
+    "symbol": "zł",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Pologne",
+    "policeNumber": "997",
+    "ambulanceNumber": "999",
+    "fireNumber": "998",
+    "extraEmergencyLabel": "Numéro d'urgence européen",
+    "extraEmergencyNumber": "112",
+    "embassyName": "Ambassade de France en Pologne",
+    "embassyAddress": "Ulica Piekna 1, 00-477 Varsovie",
+    "embassyPhone": "+48 22 529 30 00",
+    "isEuMember": true,
+    "capital": "Varsovie",
+    "utcOffset": "UTC+1 (UTC+2 en été)",
+    "tippingInfo": "En général, le pourboire n'est pas compris dans l'addition : 10 % est un montant convenable pour un service attentionné. Repère indicatif, pas une règle.",
+    "tippingRate": "10 %"
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Pomocy!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Proszę wezwać karetkę!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Potrzebuję pomocy."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Gdzie jest szpital?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Gdzie jest toaleta?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "Poproszę menu."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Mam alergię na orzeszki ziemne."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "Poproszę rachunek."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Gdzie jest dworzec kolejowy?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "Poproszę bilet w obie strony."
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il au centre-ville ?",
+      "translation": "Czy ten pociąg jedzie do centrum?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "Pod ten adres, proszę."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Mam rezerwację."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "Do której godziny trzeba zwolnić pokój?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Czy mogą Państwo przechować mój bagaż?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Ile to kosztuje?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Czy mogę zapłacić kartą?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Tylko się rozglądam, dziękuję."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Boli mnie tutaj."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Gdzie jest apteka?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Mam cukrzycę."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Ukradziono mi portfel."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Mój paszport zaginął."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Gdzie jest komisariat policji?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}
