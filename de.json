@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "countryCode": "DE",
+  "version": "2026-11-05",
+  "languageCode": "de-DE",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Allemagne",
+    "policeNumber": "110",
+    "ambulanceNumber": "112",
+    "fireNumber": "112",
+    "embassyName": "Ambassade de France en Allemagne",
+    "embassyAddress": "Pariser Platz 5, 10117 Berlin",
+    "embassyPhone": "+49 30 915 880 60",
+    "isEuMember": true,
+    "capital": "Berlin",
+    "utcOffset": "UTC+1 (UTC+2 en été)",
+    "tippingInfo": "Le service est compris, mais la plupart des Allemands laissent 5 à 10 % ou arrondissent à l'euro supérieur. Le pourboire se donne directement au serveur en payant (« stimmt so » : gardez la monnaie). Repères indicatifs, pas des règles : vérifie sur place.",
+    "tippingRate": "5-10 %"
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Hilfe!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Rufen Sie bitte einen Krankenwagen!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Ich brauche Hilfe."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Wo ist das Krankenhaus?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Wo ist die Toilette?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "Die Speisekarte, bitte."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Ich bin allergisch gegen Erdnüsse."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "Die Rechnung, bitte."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Wo ist der Bahnhof?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "Eine Hin- und Rückfahrkarte, bitte."
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il au centre-ville ?",
+      "translation": "Fährt dieser Zug ins Stadtzentrum?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "Zu dieser Adresse, bitte."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Ich habe eine Reservierung."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "Bis wann muss ich das Zimmer räumen?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Können Sie mein Gepäck aufbewahren?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Wie viel kostet das?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Kann ich mit Karte zahlen?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Ich schaue nur, danke."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Es tut hier weh."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Wo ist die Apotheke?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Ich habe Diabetes."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Mein Portemonnaie wurde gestohlen."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Ich habe meinen Reisepass verloren."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Wo ist die Polizeiwache?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}

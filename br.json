@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "countryCode": "BR",
+  "version": "2026-11-05",
+  "languageCode": "pt-BR",
+  "currency": {
+    "code": "BRL",
+    "name": "Réal brésilien",
+    "symbol": "R$",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "au Brésil",
+    "policeNumber": "190",
+    "ambulanceNumber": "192",
+    "fireNumber": "193",
+    "embassyName": "Ambassade de France au Brésil",
+    "embassyAddress": "SES - Avenida das Naçoès - Lote 04 - Quadra 801, Brasília - DF, 70404-900",
+    "embassyPhone": "+55 61 3222-3999",
+    "isEuMember": false,
+    "capital": "Brasilia",
+    "utcOffset": "UTC-3 à Brasilia ; selon la région, de UTC-2 à UTC-5",
+    "tippingInfo": "Beaucoup de restaurants ajoutent d'office 10 % à l'addition : inutile alors de laisser un pourboire en plus. En taxi, on peut arrondir la somme. Repères indicatifs, pas des règles : vérifie sur place.",
+    "tippingRate": "10 %",
+    "customsInfo": "Retour en France depuis un pays hors UE, pour les voyageurs de 15 ans et plus : franchise de 430 € par avion ou bateau, 300 € par un autre moyen. Tabac : 200 cigarettes ou 100 cigarillos ou 50 cigares ou 250 g de tabac à fumer (non cumulables). Alcool : 4 L de vin tranquille, 16 L de bière, et 1 L de boissons de plus de 22° ou 2 L de 22° ou moins.",
+    "taxFreeInfo": "Aucun dispositif de détaxe pour touristes n'a été vérifié pour ce pays. Renseigne-toi auprès du magasin avant d'acheter."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Socorro!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Chame uma ambulância, por favor!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Preciso de ajuda."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Onde fica o hospital?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Onde fica o banheiro?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "O cardápio, por favor."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Tenho alergia a amendoim."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "A conta, por favor."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare routière ?",
+      "translation": "Onde fica a rodoviária?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "Uma passagem de ida e volta, por favor."
+    },
+    {
+      "category": "transport",
+      "french": "Ce bus va-t-il au centre-ville ?",
+      "translation": "Este ônibus vai para o centro?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "Para este endereço, por favor."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Tenho uma reserva."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "Até que horas preciso deixar o quarto?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Vocês podem guardar a minha bagagem?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Quanto custa?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Posso pagar com cartão?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Só estou olhando, obrigado(a)."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Dói aqui."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Onde fica a farmácia?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Tenho diabetes."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Roubaram a minha carteira."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Perdi o meu passaporte."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Onde fica a delegacia?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}
