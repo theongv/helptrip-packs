@@ -149,13 +149,25 @@
       "version": "2026-11-04",
       "commit": "0487db3e39a62e7969f82f46f5c4ad184813a7bc"
     },
+    "LU": {
+      "version": "2026-11-06",
+      "commit": "617bee024557069a9a801df8ceb02a13dd0fc75d"
+    },
     "MA": {
       "version": "2026-10-12",
       "commit": "606eb8f64e5ee415eb00e1468b849f4d9afd1471"
     },
+    "MC": {
+      "version": "2026-11-06",
+      "commit": "617bee024557069a9a801df8ceb02a13dd0fc75d"
+    },
     "MT": {
       "version": "2026-11-04",
       "commit": "f87fa41718ea59db95210961dbba9ace03aa106e"
+    },
+    "MU": {
+      "version": "2026-11-06",
+      "commit": "617bee024557069a9a801df8ceb02a13dd0fc75d"
     },
     "MX": {
       "version": "2026-11-03",
