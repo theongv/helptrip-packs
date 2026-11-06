@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "countryCode": "FI",
+  "version": "2026-11-06",
+  "languageCode": "fi-FI",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Finlande",
+    "policeNumber": "112",
+    "ambulanceNumber": "112",
+    "fireNumber": "112",
+    "embassyName": "Ambassade de France en Finlande",
+    "embassyAddress": "Itäinen Puistotie 13, 00140 Helsinki",
+    "embassyPhone": "+358 9 618 780",
+    "embassyEmergencyPhone": "+358 400 427 275",
+    "embassyNote": "Urgence avérée (décès, disparition, accident grave ou situation de crise).",
+    "isEuMember": true,
+    "capital": "Helsinki",
+    "utcOffset": "UTC+2 (UTC+3 en été)",
+    "tippingInfo": "Le pourboire n'est pas attendu : le service est toujours compris dans l'addition. Pour un service vraiment apprécié, on arrondit la note ou on laisse quelques euros."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Apua!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Soittakaa ambulanssi, kiitos!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Tarvitsen apua."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Missä on sairaala?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Missä on vessa?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "Saisinko ruokalistan?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Olen allerginen maapähkinälle."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "Saisinko laskun?"
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Missä on rautatieasema?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "Meno-paluulippu, kiitos."
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il au centre-ville ?",
+      "translation": "Meneekö tämä juna keskustaan?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "Tähän osoitteeseen, kiitos."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Minulla on varaus."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "Mihin aikaan huone pitää luovuttaa?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Voitteko säilyttää matkatavaroitani?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Paljonko tämä maksaa?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Voinko maksaa kortilla?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Katselen vain, kiitos."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Tähän sattuu."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Missä on apteekki?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Minulla on diabetes."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Lompakkoni on varastettu."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Olen hukannut passini."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Missä on poliisiasema?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}

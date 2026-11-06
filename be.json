@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "countryCode": "BE",
+  "version": "2026-11-06",
+  "languageCode": "nl-BE",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Belgique",
+    "policeNumber": "101",
+    "ambulanceNumber": "112",
+    "fireNumber": "112",
+    "embassyName": "Ambassade de France en Belgique",
+    "embassyAddress": "65 rue Ducale, 1000 Bruxelles",
+    "embassyPhone": "+32 2 548 87 11",
+    "embassyEmergencyPhone": "+32 477 61 35 94",
+    "embassyNote": "Urgence avérée (accident, décès, agression), après 17 h.",
+    "isEuMember": true,
+    "capital": "Bruxelles",
+    "utcOffset": "UTC+1 (UTC+2 en été)",
+    "tippingInfo": "Le service est toujours compris. Il est toutefois d'usage de laisser un pourboire au restaurant ou au bar, en général 5 à 10 %, sans obligation. Repère donné pour Bruxelles.",
+    "tippingRate": "5-10 %"
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Help!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Bel alstublieft een ziekenwagen!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Ik heb hulp nodig."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Waar is het ziekenhuis?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Waar zijn de toiletten?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "De kaart, alstublieft."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Ik ben allergisch voor pinda's."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "De rekening, alstublieft."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Waar is het station?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "Een ticket heen en terug, alstublieft."
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il au centre-ville ?",
+      "translation": "Gaat deze trein naar het centrum?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "Naar dit adres, alstublieft."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Ik heb een reservatie."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "Hoe laat moet ik uitchecken?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Kunt u mijn bagage bewaren?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Hoeveel kost dit?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Kan ik met de kaart betalen?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Ik kijk maar wat rond, dank u."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Het doet hier pijn."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Waar is de apotheek?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Ik heb diabetes."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Mijn portefeuille is gestolen."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Ik heb mijn paspoort verloren."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Waar is het politiekantoor?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}

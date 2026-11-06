@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "countryCode": "NO",
+  "version": "2026-11-06",
+  "languageCode": "nb-NO",
+  "currency": {
+    "code": "NOK",
+    "name": "Couronne norvégienne",
+    "symbol": "kr",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Norvège",
+    "policeNumber": "112",
+    "ambulanceNumber": "113",
+    "fireNumber": "110",
+    "embassyName": "Ambassade de France en Norvège",
+    "embassyAddress": "Drammensveien 69, 0271 Oslo",
+    "embassyPhone": "+47 23 28 46 00",
+    "embassyEmergencyPhone": "+47 91 54 77 43",
+    "embassyNote": "Urgence avérée et immédiate (accident grave, décès, incarcération), en dehors des heures d'ouverture.",
+    "capital": "Oslo",
+    "utcOffset": "UTC+1 (UTC+2 en été)",
+    "taxFreeInfo": "Les non-résidents peuvent se faire rembourser la TVA si une même facture atteint au moins 250 NOK hors TVA. Le magasin remplit un formulaire (RD 0032). En quittant la Norvège, présente toi-même l'article et le formulaire à la douane, à un poste frontière tenu par la douane, au plus tard un mois après la livraison, puis renvoie le formulaire au magasin, qui te rembourse. Certains magasins passent par une société privée de détaxe.",
+    "isEuMember": false,
+    "customsInfo": "Retour en France depuis un pays hors UE, pour les voyageurs de 15 ans et plus : franchise de 430 € par avion ou bateau, 300 € par un autre moyen. Tabac : 200 cigarettes ou 100 cigarillos ou 50 cigares ou 250 g de tabac à fumer (non cumulables). Alcool : 4 L de vin tranquille, 16 L de bière, et 1 L de boissons de plus de 22° ou 2 L de 22° ou moins.",
+    "tippingInfo": "Le pourboire n'est pas courant, sauf dans les bars et restaurants quand on est content du service ou du repas : en général 5 à 15 % de la note. Il reste entièrement libre.",
+    "tippingRate": "5-15 %"
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Hjelp!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Vær så snill, ring etter en ambulanse!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Jeg trenger hjelp."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Hvor er sykehuset?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Hvor er toalettet?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "Kan jeg få menyen, takk?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Jeg er allergisk mot peanøtter."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "Kan jeg få regningen, takk?"
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Hvor er jernbanestasjonen?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "En tur-retur-billett, takk."
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il au centre-ville ?",
+      "translation": "Går dette toget til sentrum?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "Til denne adressen, takk."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Jeg har en reservasjon."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "Når må jeg sjekke ut av rommet?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Kan dere oppbevare bagasjen min?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Hva koster det?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Kan jeg betale med kort?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Jeg ser meg bare rundt, takk."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Det gjør vondt her."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Hvor er apoteket?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Jeg har diabetes."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Lommeboken min er stjålet."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Jeg har mistet passet mitt."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Hvor er politistasjonen?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}

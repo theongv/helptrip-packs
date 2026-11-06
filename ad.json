@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "countryCode": "AD",
+  "version": "2026-11-06",
+  "languageCode": "ca-ES",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Andorre",
+    "policeNumber": "110",
+    "ambulanceNumber": "116",
+    "fireNumber": "118",
+    "embassyName": "Ambassade de France en Andorre",
+    "embassyAddress": "Carrer Les Canals 38-40, AD500 Andorra la Vella",
+    "embassyPhone": "+376 736 700",
+    "embassyEmergencyPhone": "+376 323 381",
+    "embassyNote": "Accueil sur rendez-vous uniquement. Permanence après 17 h 30 en cas d'urgence avérée (accident, décès, agression).",
+    "capital": "Andorre-la-Vieille",
+    "taxFreeInfo": "Aucun dispositif de détaxe pour touristes n'a été vérifié pour ce pays. Renseigne-toi auprès du magasin avant d'acheter.",
+    "isEuMember": false,
+    "customsInfo": "Retour en France depuis l'Andorre (accord UE-Andorre) : franchise de 900 € par voyageur de 15 ans et plus (450 € pour les moins de 15 ans), plus 300 € de denrées alimentaires (150 € pour les moins de 15 ans). À partir de 17 ans : tabac 300 cigarettes ou 150 cigarillos ou 75 cigares ou 400 g de tabac à fumer ; alcool 5 L de vin tranquille, et 1,5 L de boissons de plus de 22° ou 3 L de 22° ou moins. Parfum 75 ml, eau de toilette 37,5 cl.",
+    "utcOffset": "UTC+1 (UTC+2 en été)",
+    "tippingInfo": "Le pourboire n'est pas obligatoire. Au restaurant, on arrondit ou on laisse 1 à 2 € par personne ; pour un très bon service, 5 à 10 %. Repères indicatifs, pas des règles.",
+    "tippingRate": "5-10 %"
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Ajuda!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Truqueu una ambulància, si us plau!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Necessito ajuda."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "On és l'hospital?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "On són els lavabos?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "La carta, si us plau."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Tinc al·lèrgia als cacauets."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "El compte, si us plau."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare routière ?",
+      "translation": "On és l'estació d'autobusos?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "Un bitllet d'anada i tornada, si us plau."
+    },
+    {
+      "category": "transport",
+      "french": "Ce bus va-t-il au centre-ville ?",
+      "translation": "Aquest autobús va al centre?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "A aquesta adreça, si us plau."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Tinc una reserva."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "A quina hora s'ha de deixar l'habitació?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Em podeu guardar l'equipatge?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Quant costa?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Puc pagar amb targeta?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Només miro, gràcies."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Em fa mal aquí."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "On és la farmàcia?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Tinc diabetis."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "M'han robat la cartera."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "He perdut el passaport."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "On és la comissaria de policia?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}

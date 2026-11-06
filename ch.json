@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "countryCode": "CH",
+  "version": "2026-11-06",
+  "languageCode": "de-CH",
+  "currency": {
+    "code": "CHF",
+    "name": "Franc suisse",
+    "symbol": "CHF",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Suisse",
+    "policeNumber": "117",
+    "ambulanceNumber": "144",
+    "fireNumber": "118",
+    "embassyName": "Ambassade de France en Suisse",
+    "embassyAddress": "Schosshaldenstrasse 46, 3006 Berne",
+    "embassyPhone": "+41 31 359 21 11",
+    "embassyNote": "Pour les ressortissants français, urgence absolue hors horaires (accident, décès, disparition inquiétante) : permanence du consulat général de Genève (+41 79 200 94 93) ou de Zurich (+41 79 401 09 39), selon la région.",
+    "capital": "Berne",
+    "utcOffset": "UTC+1 (UTC+2 en été)",
+    "taxFreeInfo": "Achats détaxés possibles à partir de 300 CHF TVA comprise par contrat de vente : demande au vendeur comment faire. Fais attester l'exportation par la douane suisse en passant la frontière, pendant les heures de dédouanement : pas d'attestation à un poste inoccupé ni après coup.",
+    "isEuMember": false,
+    "customsInfo": "Retour en France depuis un pays hors UE, pour les voyageurs de 15 ans et plus : franchise de 430 € par avion ou bateau, 300 € par un autre moyen. Tabac : 200 cigarettes ou 100 cigarillos ou 50 cigares ou 250 g de tabac à fumer (non cumulables). Alcool : 4 L de vin tranquille, 16 L de bière, et 1 L de boissons de plus de 22° ou 2 L de 22° ou moins. Frontaliers et travailleurs frontaliers : franchises réduites (75 €, 40 cigarettes, 0,5 L de vin…).",
+    "tippingInfo": "Le pourboire n'est pas obligatoire. Dans beaucoup de restaurants, il est d'usage de laisser environ 10 % ou d'arrondir la note.",
+    "tippingRate": "10 %"
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Hilfe!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Rufen Sie bitte eine Ambulanz!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Ich brauche Hilfe."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Wo ist das Spital?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Wo ist das WC?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "Die Speisekarte, bitte."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Ich bin allergisch gegen Erdnüsse."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "Die Rechnung, bitte."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Wo ist der Bahnhof?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "Ein Billett hin und zurück, bitte."
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il au centre-ville ?",
+      "translation": "Fährt dieser Zug ins Zentrum?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "Zu dieser Adresse, bitte."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Ich habe eine Reservation."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "Bis wann muss ich das Zimmer räumen?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Können Sie mein Gepäck aufbewahren?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Wie viel kostet das?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Kann ich mit Karte bezahlen?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Ich schaue nur, danke."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Es tut hier weh."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Wo ist die Apotheke?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Ich habe Diabetes."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Mein Portemonnaie wurde gestohlen."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Ich habe meinen Pass verloren."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Wo ist der Polizeiposten?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}
