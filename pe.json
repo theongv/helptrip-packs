@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "countryCode": "PE",
+  "version": "2026-11-02",
+  "languageCode": "es-PE",
+  "currency": {
+    "code": "PEN",
+    "name": "Sol péruvien",
+    "symbol": "S/",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "au Pérou",
+    "policeNumber": "105",
+    "ambulanceNumber": "106",
+    "fireNumber": "116",
+    "embassyName": "Ambassade de France au Pérou",
+    "embassyAddress": "Avenida Arequipa 3415, San Isidro, Lima 15046",
+    "embassyPhone": "+51 1 215 84 00",
+    "isEuMember": false,
+    "capital": "Lima",
+    "utcOffset": "UTC-5",
+    "tippingInfo": "Restaurants de catégorie moyenne ou haut de gamme : 5 à 10 %. Si le service est déjà inclus (« recargo al consumo »), n'ajoute rien. Restaurant simple : 1 à 3 S/ ou arrondis. Taxi : pas de pourboire, arrondis. Hôtel : porteur 3 à 5 S/ par bagage, ménage 5 à 10 S/ par chambre et par jour.",
+    "tippingRate": "5-10 %",
+    "customsInfo": "Retour en France depuis un pays hors UE, pour les voyageurs de 15 ans et plus : franchise de 430 € par avion ou bateau, 300 € par un autre moyen. Tabac : 200 cigarettes ou 100 cigarillos ou 50 cigares ou 250 g de tabac à fumer (non cumulables). Alcool : 4 L de vin tranquille, 16 L de bière, et 1 L de boissons de plus de 22° ou 2 L de 22° ou moins.",
+    "taxFreeInfo": "Aucun dispositif de détaxe pour touristes n'a été vérifié pour ce pays. Renseigne-toi auprès du magasin avant d'acheter.",
+    "embassyEmergencyPhone": "+51 985 644 745",
+    "embassyNote": "Urgence avérée (accident, décès, agression), après 17 h. Le SAMU (106) ne couvre pas toutes les régions : Cusco, Arequipa et Puno sont absents de la liste officielle."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "¡Ayuda!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Llamen a una ambulancia, por favor"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Necesito ayuda"
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "¿Dónde está el hospital?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "¿Dónde está el baño?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "El menú, por favor"
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Tengo alergia al maní"
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "La cuenta, por favor"
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare routière ?",
+      "translation": "¿Dónde está la terminal de autobuses?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "Un boleto de ida y vuelta, por favor"
+    },
+    {
+      "category": "transport",
+      "french": "Ce bus va-t-il au centre-ville ?",
+      "translation": "¿Este autobús va al centro?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "A esta dirección, por favor"
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Tengo una reserva"
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "¿A qué hora hay que dejar la habitación?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "¿Pueden guardarme el equipaje?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "¿Cuánto cuesta?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "¿Puedo pagar con tarjeta?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Solo estoy mirando, gracias"
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Me duele aquí"
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "¿Dónde está la farmacia?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Tengo diabetes"
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Me robaron la billetera"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Perdí el pasaporte"
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "¿Dónde está la policía?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}

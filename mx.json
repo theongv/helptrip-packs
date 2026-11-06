@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "countryCode": "MX",
+  "version": "2026-11-03",
+  "languageCode": "es-MX",
+  "currency": {
+    "code": "MXN",
+    "name": "Peso mexicain",
+    "symbol": "MX$",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "au Mexique",
+    "policeNumber": "911",
+    "ambulanceNumber": "911",
+    "fireNumber": "911",
+    "embassyName": "Ambassade de France au Mexique",
+    "embassyAddress": "Campos Elíseos 339, Colonia Polanco, 11560 Ciudad de México",
+    "embassyPhone": "+52 55 9171 9700",
+    "isEuMember": false,
+    "capital": "Mexico",
+    "utcOffset": "UTC-6 à Mexico ; selon l'État, de UTC-5 à UTC-8",
+    "tippingInfo": "Environ 10 % au restaurant pour un service correct, 15 % pour un très bon service ou dans les zones très touristiques. Vérifie d'abord que la ligne « propina » n'est pas déjà ajoutée à l'addition. Taxis : arrondir. Hôtels : quelques dizaines de pesos par jour pour le ménage et un petit billet pour le bagagiste. Repères indicatifs, pas des règles : vérifie sur place.",
+    "tippingRate": "10 à 15 %",
+    "customsInfo": "Retour en France depuis un pays hors UE, pour les voyageurs de 15 ans et plus : franchise de 430 € par avion ou bateau, 300 € par un autre moyen. Tabac : 200 cigarettes ou 100 cigarillos ou 50 cigares ou 250 g de tabac à fumer (non cumulables). Alcool : 4 L de vin tranquille, 16 L de bière, et 1 L de boissons de plus de 22° ou 2 L de 22° ou moins.",
+    "taxFreeInfo": "Aucun dispositif de détaxe pour touristes n'a été vérifié pour ce pays. Renseigne-toi auprès du magasin avant d'acheter."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "¡Ayuda!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Llamen a una ambulancia, por favor"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Necesito ayuda"
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "¿Dónde está el hospital?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "¿Dónde está el baño?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "El menú, por favor"
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Tengo alergia a los cacahuates"
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "La cuenta, por favor"
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare routière ?",
+      "translation": "¿Dónde está la terminal de autobuses?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "Un boleto de ida y vuelta, por favor"
+    },
+    {
+      "category": "transport",
+      "french": "Ce bus va-t-il au centre-ville ?",
+      "translation": "¿Este autobús va al centro?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "A esta dirección, por favor"
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Tengo una reserva"
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "¿A qué hora hay que dejar la habitación?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "¿Pueden guardarme el equipaje?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "¿Cuánto cuesta?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "¿Puedo pagar con tarjeta?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Solo estoy mirando, gracias"
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Me duele aquí"
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "¿Dónde está la farmacia?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Tengo diabetes"
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Me robaron la billetera"
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Perdí el pasaporte"
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "¿Dónde está la policía?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}
