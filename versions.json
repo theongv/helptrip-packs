@@ -13,6 +13,10 @@
       "version": "2026-11-06",
       "commit": "359c51281f6c1d9d1d72cc0c0871b4dad3b6e70a"
     },
+    "AR": {
+      "version": "2026-11-03",
+      "commit": "c423bbcfa95e2c9a248b308d328b2e374e0d27a1"
+    },
     "AT": {
       "version": "2026-11-05",
       "commit": "315794fb44086c84929e30cd0322cd89e008bdc3"
@@ -153,6 +157,10 @@
       "version": "2026-11-04",
       "commit": "f87fa41718ea59db95210961dbba9ace03aa106e"
     },
+    "MX": {
+      "version": "2026-11-03",
+      "commit": "c423bbcfa95e2c9a248b308d328b2e374e0d27a1"
+    },
     "MY": {
       "version": "2026-11-04",
       "commit": "5aac094c3d50d3ac8c796d741a13ad66baefbc27"
@@ -176,6 +184,10 @@
     "OM": {
       "version": "2026-11-04",
       "commit": "b0a232cd8919e91f385f61dd1ab851df14072e03"
+    },
+    "PE": {
+      "version": "2026-11-02",
+      "commit": "c423bbcfa95e2c9a248b308d328b2e374e0d27a1"
     },
     "PH": {
       "version": "2026-11-04",
