@@ -5,6 +5,10 @@
       "version": "2026-11-02",
       "commit": "226884089fe9b74666b04c0d0466992357d1ad08"
     },
+    "AL": {
+      "version": "2026-11-06",
+      "commit": "359c51281f6c1d9d1d72cc0c0871b4dad3b6e70a"
+    },
     "AT": {
       "version": "2026-11-05",
       "commit": "315794fb44086c84929e30cd0322cd89e008bdc3"
@@ -85,6 +89,10 @@
       "version": "2026-11-05",
       "commit": "474dfb2a3f35b2b185ced1fc81b68365fb174510"
     },
+    "ID": {
+      "version": "2026-11-06",
+      "commit": "359c51281f6c1d9d1d72cc0c0871b4dad3b6e70a"
+    },
     "IE": {
       "version": "2026-11-02",
       "commit": "9c4f60ec45b45a37b3a7ce59e71cc921a7c91789"
@@ -92,6 +100,10 @@
     "IN": {
       "version": "2026-11-04",
       "commit": "06fd33174946d3639e97baabe1ea54d3dfb9d973"
+    },
+    "IS": {
+      "version": "2026-11-06",
+      "commit": "359c51281f6c1d9d1d72cc0c0871b4dad3b6e70a"
     },
     "IT": {
       "version": "2026-10-05.3",
@@ -108,6 +120,10 @@
     "KE": {
       "version": "2026-11-04",
       "commit": "5aac094c3d50d3ac8c796d741a13ad66baefbc27"
+    },
+    "KR": {
+      "version": "2026-11-06",
+      "commit": "359c51281f6c1d9d1d72cc0c0871b4dad3b6e70a"
     },
     "LK": {
       "version": "2026-11-04",
@@ -192,6 +208,10 @@
     "US": {
       "version": "2026-10-20",
       "commit": "f3a13de430dae568a3e96a6fe2d3fe06c1c4bbcb"
+    },
+    "VN": {
+      "version": "2026-11-06",
+      "commit": "359c51281f6c1d9d1d72cc0c0871b4dad3b6e70a"
     },
     "ZA": {
       "version": "2026-11-03",
