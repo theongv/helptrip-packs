@@ -1,0 +1,28 @@
+{
+  "format": 1,
+  "countryCode": "LU",
+  "version": "2026-11-06",
+  "languageCode": "fr-LU",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "au Luxembourg",
+    "policeNumber": "113",
+    "ambulanceNumber": "112",
+    "fireNumber": "112",
+    "embassyName": "Ambassade de France au Luxembourg",
+    "embassyAddress": "8B, boulevard Joseph II, 1840 Luxembourg",
+    "embassyPhone": "+352 45 72 71",
+    "embassyEmergencyPhone": "+352 661 631 228",
+    "embassyNote": "Urgence avérée, en dehors des horaires d'ouverture.",
+    "isEuMember": true,
+    "capital": "Luxembourg",
+    "utcOffset": "UTC+1 (UTC+2 en été)",
+    "tippingInfo": "Le service est généralement compris à l'hôtel et au restaurant ; laisser un pourboire reste libre. Les chauffeurs de taxi attendent environ 10 % de la course. Repères indicatifs, pas des règles."
+  },
+  "phrases": []
+}

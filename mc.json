@@ -1,0 +1,30 @@
+{
+  "format": 1,
+  "countryCode": "MC",
+  "version": "2026-11-06",
+  "languageCode": "fr-MC",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "à Monaco",
+    "policeNumber": "17",
+    "ambulanceNumber": "+377 93 30 19 45",
+    "fireNumber": "18",
+    "embassyName": "Ambassade de France à Monaco",
+    "embassyAddress": "1, rue du Ténao, 98000 Monaco",
+    "embassyPhone": "+377 92 16 54 60",
+    "embassyEmergencyPhone": "+33 6 89 60 31 03",
+    "embassyNote": "Urgence avérée (accident, décès, agression), la nuit, le week-end et les jours fériés.",
+    "capital": "Monaco",
+    "utcOffset": "UTC+1 (UTC+2 en été)",
+    "taxFreeInfo": "La TVA française s'applique à Monaco. La détaxe y est réservée aux voyageurs qui résident hors de l'Union européenne : un voyageur qui réside en France n'y a pas droit.",
+    "isEuMember": false,
+    "customsInfo": "Monaco fait partie du territoire douanier de l'Union européenne (convention douanière avec la France) et la TVA française s'y applique : les franchises de retour d'un pays hors UE ne concernent pas Monaco.",
+    "tippingInfo": "Le service est généralement inclus. Le pourboire n'est pas obligatoire ; un arrondi ou quelques euros sont appréciés si le service a été satisfaisant. Repères indicatifs, pas des règles."
+  },
+  "phrases": []
+}

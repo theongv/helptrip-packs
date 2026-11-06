@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "countryCode": "MU",
+  "version": "2026-11-06",
+  "languageCode": "fr-MU",
+  "currency": {
+    "code": "MUR",
+    "name": "Roupie mauricienne",
+    "symbol": "Rs",
+    "decimals": 2
+  },
+  "countryInfo": {
+    "nameWithPreposition": "à Maurice",
+    "policeNumber": "999",
+    "ambulanceNumber": "114",
+    "fireNumber": "995",
+    "embassyName": "Ambassade de France à Maurice",
+    "embassyAddress": "Immeuble « The Workplace », 4e étage, La Promenade, Telfair, 80829 Moka",
+    "embassyPhone": "+230 20 20 100",
+    "embassyEmergencyPhone": "+230 5257 6100",
+    "embassyNote": "Urgence uniquement (décès, arrestation, accident grave), en dehors des horaires du consulat ; appel ou WhatsApp.",
+    "capital": "Port-Louis",
+    "utcOffset": "UTC+4 (pas d'heure d'été)",
+    "taxFreeInfo": "Aucun dispositif de détaxe pour touristes n'a été vérifié pour ce pays. Renseigne-toi auprès du magasin avant d'acheter.",
+    "isEuMember": false,
+    "customsInfo": "Retour en France depuis un pays hors UE, pour les voyageurs de 15 ans et plus : franchise de 430 € par avion ou bateau, 300 € par un autre moyen. Tabac : 200 cigarettes ou 100 cigarillos ou 50 cigares ou 250 g de tabac à fumer (non cumulables). Alcool : 4 L de vin tranquille, 16 L de bière, et 1 L de boissons de plus de 22° ou 2 L de 22° ou moins.",
+    "tippingInfo": "Le pourboire est répandu mais pas obligatoire. Au restaurant, environ 5 % de la note (au plus 200 MUR). Repères indicatifs, pas des règles.",
+    "tippingRate": "5 %"
+  },
+  "phrases": []
+}
