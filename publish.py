@@ -10,7 +10,8 @@ Usage :
 
 Ce que fait le script, dans l'ordre :
   1. Valide chaque pack (xx.json) : JSON lisible, champs obligatoires, code pays
-     identique au nom du fichier, version au format AAAA-MM-JJ ou AAAA-MM-JJ.N.
+     identique au nom du fichier, version au format AAAA-MM-JJ ou AAAA-MM-JJ.N,
+     au moins une phrase ("phrases": [] admis seulement si languageCode commence par « fr- »).
   2. Compare chaque pack à la version publiée dans versions.json. ÉCHEC si le contenu
      a changé sans que "version" soit augmentée : l'app ne proposerait jamais la
      correction aux utilisateurs. Échec aussi si la version a baissé.
@@ -82,7 +83,9 @@ def validate_pack(path):
         raise PublishError(f"{path} : countryCode {pack['countryCode']} au lieu de {expected}")
     if parse_version(pack["version"]) is None:
         raise PublishError(f"{path} : version illisible « {pack['version']} »")
-    if not isinstance(pack["phrases"], list) or not pack["phrases"]:
+    # Liste vide admise seulement en français (fr-XX) : pays publié sans phrases
+    french = str(pack["languageCode"]).startswith("fr-")
+    if not isinstance(pack["phrases"], list) or not (pack["phrases"] or french):
         raise PublishError(f"{path} : aucune phrase")
     return pack
 
