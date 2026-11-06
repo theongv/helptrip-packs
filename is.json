@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "countryCode": "IS",
+  "version": "2026-11-06",
+  "languageCode": "is-IS",
+  "currency": {
+    "code": "ISK",
+    "name": "Couronne islandaise",
+    "symbol": "kr.",
+    "decimals": 0
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Islande",
+    "policeNumber": "112",
+    "ambulanceNumber": "112",
+    "fireNumber": "112",
+    "embassyName": "Ambassade de France en Islande",
+    "embassyAddress": "Tungata 22, PH 1750, 121 Reykjavik",
+    "embassyPhone": "+354 575 9600",
+    "embassyEmergencyPhone": "+354 898 45 31",
+    "embassyNote": "Urgence avérée (accidents graves, décès).",
+    "capital": "Reykjavík",
+    "utcOffset": "UTC+0 (pas d'heure d'été)",
+    "taxFreeInfo": "Les non-résidents peuvent se faire rembourser la TVA si un même ticket atteint au moins 12 000 ISK. Demande un formulaire Tax Free au magasin. Au départ, fais-le valider (tampon de Change Group à l'aéroport, ou des douanes si le remboursement dépasse 100 000 ISK), puis présente-le au point de remboursement. Frais éventuels non précisés sur la page officielle.",
+    "isEuMember": false,
+    "customsInfo": "Retour en France depuis un pays hors UE, pour les voyageurs de 15 ans et plus : franchise de 430 € par avion ou bateau, 300 € par un autre moyen. Tabac : 200 cigarettes ou 100 cigarillos ou 50 cigares ou 250 g de tabac à fumer (non cumulables). Alcool : 4 L de vin tranquille, 16 L de bière, et 1 L de boissons de plus de 22° ou 2 L de 22° ou moins.",
+    "tippingInfo": "Il n'est pas nécessaire de donner un pourboire : le service et la TVA sont toujours inclus dans les prix. Quelques pièces pour arrondir la note restent appréciées."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Hjálp!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Vinsamlegast hringið á sjúkrabíl!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Ég þarf hjálp."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Hvar er sjúkrahúsið?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Hvar er salernið?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "Matseðilinn, takk."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Ég er með ofnæmi fyrir jarðhnetum."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "Reikninginn, takk."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare routière ?",
+      "translation": "Hvar er rútustöðin?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "Miða fram og til baka, takk."
+    },
+    {
+      "category": "transport",
+      "french": "Ce bus va-t-il au centre-ville ?",
+      "translation": "Fer þessi strætó í miðbæinn?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "Á þetta heimilisfang, takk."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Ég er með bókun."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "Hvenær þarf ég að skila herberginu?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Getið þið geymt farangurinn minn?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Hvað kostar þetta?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Get ég borgað með korti?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Ég er bara að skoða, takk."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Ég er með verk hérna."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Hvar er apótekið?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Ég er með sykursýki."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Veskinu mínu var stolið."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Ég týndi vegabréfinu mínu."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Hvar er lögreglustöðin?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}

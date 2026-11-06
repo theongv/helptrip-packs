@@ -1,0 +1,174 @@
+{
+  "format": 1,
+  "countryCode": "KR",
+  "version": "2026-11-06",
+  "languageCode": "ko-KR",
+  "currency": {
+    "code": "KRW",
+    "name": "Won sud-coréen",
+    "symbol": "₩",
+    "decimals": 0
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Corée du Sud",
+    "policeNumber": "112",
+    "ambulanceNumber": "119",
+    "fireNumber": "119",
+    "embassyName": "Ambassade de France en République de Corée",
+    "embassyAddress": "43-12, Seosomun-ro, Seodaemun-gu, Séoul 03741",
+    "embassyPhone": "+82 2 3149 4300",
+    "capital": "Séoul",
+    "utcOffset": "UTC+9 (pas d'heure d'été)",
+    "tippingInfo": "Le pourboire n'est ni obligatoire ni attendu au restaurant. Les demandes d'eau ou d'accompagnements supplémentaires ne sont pas facturées.",
+    "isEuMember": false,
+    "customsInfo": "Retour en France depuis un pays hors UE, pour les voyageurs de 15 ans et plus : franchise de 430 € par avion ou bateau, 300 € par un autre moyen. Tabac : 200 cigarettes ou 100 cigarillos ou 50 cigares ou 250 g de tabac à fumer (non cumulables). Alcool : 4 L de vin tranquille, 16 L de bière, et 1 L de boissons de plus de 22° ou 2 L de 22° ou moins.",
+    "taxFreeInfo": "Les touristes étrangers (séjour de 6 mois au plus) récupèrent la TVA sur les achats d'au moins 15 000 KRW dans les magasins participants : soit directement en magasin (remboursement immédiat, achat de moins de 1 000 000 KRW et 5 000 000 KRW au total), soit au départ, aux comptoirs ou bornes de l'aéroport après le contrôle douanier. Les achats doivent quitter le pays dans les 3 mois."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "도와주세요!",
+      "romanization": "Dowajuseyo!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "구급차를 불러 주세요!",
+      "romanization": "Gugeupchareul bulleo juseyo!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "도움이 필요해요.",
+      "romanization": "Doumi piryohaeyo."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "병원이 어디예요?",
+      "romanization": "Byeongwoni eodiyeyo?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "화장실이 어디예요?",
+      "romanization": "Hwajangsiri eodiyeyo?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "메뉴판 주세요.",
+      "romanization": "Menyupan juseyo."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "땅콩 알레르기가 있어요.",
+      "romanization": "Ttangkong allereugiga isseoyo."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "계산서 주세요.",
+      "romanization": "Gyesanseo juseyo."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "기차역이 어디예요?",
+      "romanization": "Gichayeogi eodiyeyo?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "왕복표 한 장 주세요.",
+      "romanization": "Wangbokpyo han jang juseyo."
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il au centre-ville ?",
+      "translation": "이 기차 시내로 가요?",
+      "romanization": "I gicha sinaero gayo?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "이 주소로 가 주세요.",
+      "romanization": "I jusoro ga juseyo."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "예약했어요.",
+      "romanization": "Yeyakhaesseoyo."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "체크아웃은 몇 시예요?",
+      "romanization": "Chekeuauseun myeot siyeyo?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "짐을 맡겨도 돼요?",
+      "romanization": "Jimeul matgyeodo dwaeyo?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "얼마예요?",
+      "romanization": "Eolmayeyo?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "카드로 결제할 수 있어요?",
+      "romanization": "Kadeuro gyeoljehal su isseoyo?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "그냥 구경하는 거예요, 감사합니다.",
+      "romanization": "Geunyang gugyeonghaneun geoyeyo, gamsahamnida."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "여기가 아파요.",
+      "romanization": "Yeogiga apayo."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "약국이 어디예요?",
+      "romanization": "Yakgugi eodiyeyo?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "당뇨병이 있어요.",
+      "romanization": "Dangnyobyeongi isseoyo."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "지갑을 도난당했어요.",
+      "romanization": "Jigabeul donandanghaesseoyo."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "여권을 잃어버렸어요.",
+      "romanization": "Yeogwoneul ireobeoryeosseoyo."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "경찰서가 어디예요?",
+      "romanization": "Gyeongchalseoga eodiyeyo?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}

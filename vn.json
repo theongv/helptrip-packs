@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "countryCode": "VN",
+  "version": "2026-11-06",
+  "languageCode": "vi-VN",
+  "currency": {
+    "code": "VND",
+    "name": "Dông vietnamien",
+    "symbol": "₫",
+    "decimals": 0
+  },
+  "countryInfo": {
+    "nameWithPreposition": "au Viêt Nam",
+    "policeNumber": "113",
+    "ambulanceNumber": "115",
+    "fireNumber": "114",
+    "embassyName": "Ambassade de France au Vietnam",
+    "embassyAddress": "57 Tran Hung Dao, Hanoï",
+    "embassyPhone": "+84 24 3944 57 00",
+    "capital": "Hanoï",
+    "tippingInfo": "Le pourboire ne fait pas partie de la culture vietnamienne et n'est pas attendu au restaurant ou au café, mais il est toujours apprécié. Il devient courant dans les salons de beauté et pour les guides privés.",
+    "isEuMember": false,
+    "customsInfo": "Retour en France depuis un pays hors UE, pour les voyageurs de 15 ans et plus : franchise de 430 € par avion ou bateau, 300 € par un autre moyen. Tabac : 200 cigarettes ou 100 cigarillos ou 50 cigares ou 250 g de tabac à fumer (non cumulables). Alcool : 4 L de vin tranquille, 16 L de bière, et 1 L de boissons de plus de 22° ou 2 L de 22° ou moins.",
+    "utcOffset": "UTC+7 (pas d'heure d'été)",
+    "taxFreeInfo": "Aucun dispositif de détaxe pour touristes n'a été vérifié pour ce pays. Renseigne-toi auprès du magasin avant d'acheter."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Cứu tôi với!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Làm ơn gọi xe cấp cứu!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Tôi cần giúp đỡ."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Bệnh viện ở đâu?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Nhà vệ sinh ở đâu?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "Cho tôi xem thực đơn."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Tôi bị dị ứng đậu phộng (lạc)."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "Cho tôi thanh toán."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Ga tàu ở đâu?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "Cho tôi một vé khứ hồi."
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il au centre-ville ?",
+      "translation": "Tàu này có đi vào trung tâm thành phố không?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "Cho tôi đến địa chỉ này."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Tôi đã đặt phòng."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "Mấy giờ phải trả phòng?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Bạn có thể giữ hành lý giúp tôi không?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Cái này bao nhiêu tiền?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Tôi có thể trả bằng thẻ không?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Tôi chỉ xem thôi, cảm ơn."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Tôi bị đau ở đây."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Nhà thuốc ở đâu?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Tôi bị tiểu đường."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Tôi bị mất cắp ví."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Tôi bị mất hộ chiếu."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Đồn công an ở đâu?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}

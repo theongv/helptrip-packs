@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "countryCode": "AL",
+  "version": "2026-11-06",
+  "languageCode": "sq-AL",
+  "currency": {
+    "code": "ALL",
+    "name": "Lek albanais",
+    "symbol": "Lekë",
+    "decimals": 0
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Albanie",
+    "policeNumber": "129",
+    "ambulanceNumber": "127",
+    "fireNumber": "128",
+    "extraEmergencyLabel": "Toutes urgences",
+    "extraEmergencyNumber": "112",
+    "embassyName": "Ambassade de France en Albanie",
+    "embassyAddress": "Rruga Skënderbej 14, 1000 Tirana",
+    "embassyPhone": "+355 4 238 9700",
+    "capital": "Tirana",
+    "isEuMember": false,
+    "customsInfo": "Retour en France depuis un pays hors UE, pour les voyageurs de 15 ans et plus : franchise de 430 € par avion ou bateau, 300 € par un autre moyen. Tabac : 200 cigarettes ou 100 cigarillos ou 50 cigares ou 250 g de tabac à fumer (non cumulables). Alcool : 4 L de vin tranquille, 16 L de bière, et 1 L de boissons de plus de 22° ou 2 L de 22° ou moins.",
+    "utcOffset": "UTC+1 (UTC+2 en été)",
+    "tippingInfo": "La ligne « couvert » sur la note indique que le service est compris. Si tu es satisfait, tu peux laisser 5 à 10 % en plus. Repère indicatif, pas une règle.",
+    "tippingRate": "5-10 %",
+    "taxFreeInfo": "Aucun dispositif de détaxe pour touristes n'a été vérifié pour ce pays. Renseigne-toi auprès du magasin avant d'acheter."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Ndihmë!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Ju lutem, thërrisni një ambulancë!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Kam nevojë për ndihmë."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Ku është spitali?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Ku është tualeti?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "Menunë, ju lutem."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Kam alergji nga kikirikët."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "Llogarinë, ju lutem."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare routière ?",
+      "translation": "Ku është stacioni i autobusëve?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "Një biletë vajtje-ardhje, ju lutem."
+    },
+    {
+      "category": "transport",
+      "french": "Ce bus va-t-il au centre-ville ?",
+      "translation": "A shkon ky autobus në qendër të qytetit?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "Në këtë adresë, ju lutem."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Kam një rezervim."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "Deri në çfarë ore duhet ta liroj dhomën?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "A mund të ma ruani bagazhin?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Sa kushton?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "A mund të paguaj me kartë?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Thjesht po shikoj, faleminderit."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Më dhemb këtu."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Ku është farmacia?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Kam diabet."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Më kanë vjedhur portofolin."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Kam humbur pasaportën."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Ku është komisariati i policisë?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}

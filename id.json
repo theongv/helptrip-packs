@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "countryCode": "ID",
+  "version": "2026-11-06",
+  "languageCode": "id-ID",
+  "currency": {
+    "code": "IDR",
+    "name": "Roupie indonésienne",
+    "symbol": "Rp",
+    "decimals": 0
+  },
+  "countryInfo": {
+    "nameWithPreposition": "en Indonésie",
+    "policeNumber": "110",
+    "ambulanceNumber": "118",
+    "fireNumber": "113",
+    "extraEmergencyLabel": "Urgences depuis un mobile",
+    "extraEmergencyNumber": "112",
+    "embassyName": "Ambassade de France en Indonésie",
+    "embassyAddress": "Jl. M.H. Thamrin 20, Jakarta 10350",
+    "embassyPhone": "+62 21 23 55 80 00",
+    "capital": "Jakarta",
+    "utcOffset": "UTC+7 (Java, Sumatra, Jakarta) ; UTC+8 (Bali, Sulawesi) ; UTC+9 (Moluques, Papouasie)",
+    "taxFreeInfo": "Remboursement de la TVA aux touristes (passeport étranger, séjour de 60 jours au plus), uniquement pour les achats faits dans les magasins affichant « Tax Refund for Tourists ». Il faut au moins 50 000 Rp de TVA par ticket et 500 000 Rp de TVA au total, pour des achats faits dans le mois précédant le départ. La demande se fait le jour du départ, aux comptoirs Tax Refund de certains aéroports internationaux : en espèces jusqu'à 5 000 000 Rp, par virement au-delà.",
+    "isEuMember": false,
+    "customsInfo": "Retour en France depuis un pays hors UE, pour les voyageurs de 15 ans et plus : franchise de 430 € par avion ou bateau, 300 € par un autre moyen. Tabac : 200 cigarettes ou 100 cigarillos ou 50 cigares ou 250 g de tabac à fumer (non cumulables). Alcool : 4 L de vin tranquille, 16 L de bière, et 1 L de boissons de plus de 22° ou 2 L de 22° ou moins.",
+    "tippingInfo": "Le pourboire reste peu courant. Il n'est obligatoire ni à l'hôtel ni au restaurant, où 10 à 15 % sont souvent ajoutés pour le service. On donne 5 000 à 10 000 Rp à un porteur de bagages."
+  },
+  "phrases": [
+    {
+      "category": "emergency",
+      "french": "Au secours !",
+      "translation": "Tolong!"
+    },
+    {
+      "category": "emergency",
+      "french": "Appelez une ambulance, s'il vous plaît",
+      "translation": "Tolong panggilkan ambulans!"
+    },
+    {
+      "category": "emergency",
+      "french": "J'ai besoin d'aide",
+      "translation": "Saya butuh bantuan."
+    },
+    {
+      "category": "emergency",
+      "french": "Où est l'hôpital ?",
+      "translation": "Di mana rumah sakit?"
+    },
+    {
+      "category": "restaurant",
+      "french": "Où sont les toilettes ?",
+      "translation": "Di mana toilet?"
+    },
+    {
+      "category": "restaurant",
+      "french": "La carte, s'il vous plaît",
+      "translation": "Minta menunya."
+    },
+    {
+      "category": "restaurant",
+      "french": "Je suis allergique aux arachides",
+      "translation": "Saya alergi kacang tanah."
+    },
+    {
+      "category": "restaurant",
+      "french": "L'addition, s'il vous plaît",
+      "translation": "Minta tagihannya."
+    },
+    {
+      "category": "transport",
+      "french": "Où est la gare ?",
+      "translation": "Di mana stasiun kereta?"
+    },
+    {
+      "category": "transport",
+      "french": "Un billet aller-retour, s'il vous plaît",
+      "translation": "Satu tiket pulang-pergi."
+    },
+    {
+      "category": "transport",
+      "french": "Ce train va-t-il au centre-ville ?",
+      "translation": "Apakah kereta ini ke pusat kota?"
+    },
+    {
+      "category": "transport",
+      "french": "À cette adresse, s'il vous plaît",
+      "translation": "Ke alamat ini."
+    },
+    {
+      "category": "hotel",
+      "french": "J'ai une réservation",
+      "translation": "Saya punya reservasi."
+    },
+    {
+      "category": "hotel",
+      "french": "À quelle heure est le départ de la chambre ?",
+      "translation": "Jam berapa harus check-out?"
+    },
+    {
+      "category": "hotel",
+      "french": "Pouvez-vous garder mes bagages ?",
+      "translation": "Bisa titip barang saya?"
+    },
+    {
+      "category": "shopping",
+      "french": "Combien ça coûte ?",
+      "translation": "Berapa harganya?"
+    },
+    {
+      "category": "shopping",
+      "french": "Puis-je payer par carte ?",
+      "translation": "Bisa bayar pakai kartu?"
+    },
+    {
+      "category": "shopping",
+      "french": "Je regarde seulement, merci",
+      "translation": "Saya hanya lihat-lihat, terima kasih."
+    },
+    {
+      "category": "health",
+      "french": "J'ai mal ici",
+      "translation": "Sakit di sini."
+    },
+    {
+      "category": "health",
+      "french": "Où est la pharmacie ?",
+      "translation": "Di mana apotek?"
+    },
+    {
+      "category": "health",
+      "french": "Je suis diabétique",
+      "translation": "Saya menderita diabetes."
+    },
+    {
+      "category": "police",
+      "french": "On m'a volé mon portefeuille",
+      "translation": "Dompet saya dicuri."
+    },
+    {
+      "category": "police",
+      "french": "J'ai perdu mon passeport",
+      "translation": "Paspor saya hilang."
+    },
+    {
+      "category": "police",
+      "french": "Où est le poste de police ?",
+      "translation": "Di mana kantor polisi?"
+    }
+  ],
+  "phrasesNativeReviewed": false
+}
